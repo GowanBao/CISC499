@@ -1,0 +1,233 @@
+The following document contains a list of academic programs in the Faculty of Arts and Sciences at Queen's University. Each entry in the educational programs section is presented in the format of 'Degree Name, Program Name', representing the various degree programs available. 
+
+With them, you get a one-to-many relationship between degree name and program name. You can learn the names of all degrees and programs, and the correspondence between degrees and programs. 
+
+Degree Names and Program Names:
+Art History and Art Conservation , Computing and the Creative Arts - Specialization (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – Major (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – General (Arts) – Bachelor of Arts
+Art History and Art Conservation , Art History – Minor (Arts)
+Biochemistry , Biochemistry – Specialization (Science) – Bachelor of Science (Honours)
+Biochemistry , Biochemistry – Major (Science) – Bachelor of Science (Honours)
+Biochemistry , Biochemistry – General (Science) – Bachelor of Science
+Biochemistry , Biochemistry – Minor (Science)
+Biology , Biology and Mathematics – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biology and Psychology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biotechnology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Environmental Biology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biology – Major (Science) – Bachelor of Science (Honours)
+Biology , Biology – General (Arts) – Bachelor of Arts
+Biology , Biology – General (Science) – Bachelor of Science
+Biology , Biology – Minor (Arts)
+Biology , Biology – Minor (Science)
+Chemistry , Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Chemistry , Environmental Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Chemistry , Chemistry – Major (Science) – Bachelor of Science (Honours)
+Chemistry , Chemistry – General (Arts) – Bachelor of Arts
+Chemistry , Chemistry– General (Science) – Bachelor of Science
+Chemistry , Chemistry – Minor (Arts)
+Chemistry , Chemistry – Minor (Science)
+Classics and Archaeology , Classics and Archaeology – Specialization (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Greek – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Latin – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Greek – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Latin – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Classics and Archaeology – Minor (Arts)
+Classics and Archaeology , Greek – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Greek – Minor (Arts)
+Classics and Archaeology , Latin – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Latin – Minor (Arts)
+Computing , Biomedical Computing – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computing and the Creative Arts - Specialization (Arts) – Bachelor of Arts (Honours)
+Computing , Computing, Mathematics and Analytics – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computer Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Software Design – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computing – Major (Computing) – Bachelor of Computing (Honours)
+Computing , Computing – General (Computing) – Bachelor of Computing
+Computing , Computing – General (Arts) – Bachelor of Arts
+Computing , Computing – Minor (Arts)
+Computing , Computing - Minor (Science)
+Computing , Data Analytics Certificate
+Drama and Music , Computing and the Creative Arts – Specialization (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Media and Performance Production– Specialization (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Specialization (Music) – Bachelor of Music
+Drama and Music , Drama – Major (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Major (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Drama – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Drama – General (Arts) – Bachelor of Arts
+Drama and Music , Drama – Minor (Arts)
+Drama and Music , Music – General (Arts) – Bachelor of Arts
+Drama and Music , Music – Minor (Arts)
+Drama and Music , Music Theatre – General (Music Theatre) – Bachelor of Music Theatre
+Drama and Music , Entrepreneurship, Innovation and Creativity Certificate
+Economics , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Economics , Applied Economics – Major (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – Major (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – General (Arts) – Bachelor of Arts
+Economics , Economics – Minor (Arts)
+Employment Relations , Employment Relations – General (Arts) – Bachelor of Arts
+Employment Relations , Employment Relations – Minor (Arts)
+Employment Relations , Employment Relations Certificate
+English , English Language and Literature – Major (Arts) – Bachelor of Arts (Honours)
+English , English Language and Literature – Joint Honours (Arts) – Bachelor of Arts (Honours)
+English , English Language and Literature – General (Arts) – Bachelor of Arts
+English , English Language and Literature – Minor (Arts)
+Environmental Studies , Earth System Science – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Biology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Geology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Toxicology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Science – Major (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Studies – Major (Arts) – Bachelor of Arts (Honours)
+Environmental Studies , Environmental Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Environmental Studies , Environmental Studies – General (Arts) – Bachelor of Arts
+Environmental Studies , Environmental Studies – Minor (Arts)
+Film and Media , Computing and the Creative Arts – Specialization (Arts) – Bachelor of Arts (Honours)
+Film and Media , Media and Performance Production – Specialization (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – Major (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – General (Arts) – Bachelor of Arts
+Film and Media , Film and Media – Minor (Arts)
+Film and Media , Animation Theory and Practice Certificate
+Film and Media , Media Studies Certificate
+Fine Art , Fine Art (Visual Art) – Major – Bachelor of Fine Art (Honours)
+Fine Art , Fine Art (Visual Art) – General – Bachelor of Fine Art
+French Studies , French Studies – Major (Arts) – Bachelor of Arts (Honours)
+French Studies , French Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+French Studies , French Studies – General (Arts) – Bachelor of Arts
+French Studies , French Studies – Minor (Arts)
+French Studies , French for Professionals Certificate
+Gender Studies , Gender Studies – Major (Arts) – Bachelor of Arts (Honours)
+Gender Studies , Gender Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Gender Studies , Black Studies – General (Arts) – Bachelor of Arts
+Gender Studies , Black Studies – Minor (Arts)
+Gender Studies , Gender Studies – General (Arts) – Bachelor of Arts
+Gender Studies , Gender Studies – Minor (Arts)
+Gender Studies , Sexual and Gender Diversity Certificate
+Geography and Planning , Earth System Science – Specialization (Science) – Bachelor of Science (Honours)
+Geography and Planning , Geography – Major (Arts) – Bachelor of Arts (Honours)
+Geography and Planning , Geography – Major (Science) – Bachelor of Science (Honours)
+Geography and Planning , Geography – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Geography and Planning , Geography – General (Arts) – Bachelor of Arts
+Geography and Planning , Geography – General (Science) – Bachelor of Science
+Geography and Planning , Geography – Minor (Arts)
+Geography and Planning , Geography – Minor (Science)
+Geography and Planning , Geographic Information Science Certificate
+Geography and Planning , Urban Planning Studies Certificate
+Geological Sciences and Geological Engineering , Environmental Geology – Specialization (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – Major (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – General (Arts) – Bachelor of Arts
+Geological Sciences and Geological Engineering , Geological Sciences – General (Science) – Bachelor of Science
+Geological Sciences and Geological Engineering , Geological Sciences – Minor (Arts)
+Geological Sciences and Geological Engineering , Geological Sciences – Minor (Science)
+Global Development Studies , Global Development Studies – Major (Arts) – Bachelor of Arts (Honours)
+Global Development Studies , Global Development Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Global Development Studies , Global Development Studies – General (Arts) – Bachelor of Arts
+Global Development Studies , Global Development Studies – Minor (Arts)
+Global Development Studies , Global Action and Engagement Certificate
+History , History – Major (Arts) – Bachelor of Arts (Honours)
+History , History – Joint Honours (Arts) – Bachelor of Arts (Honours)
+History , History – General (Arts) – Bachelor of Arts
+History , History – Minor (Arts)
+International Studies , International Studies Certificate
+Jewish Studies , Jewish Studies – General (Arts) – Bachelor of Arts
+Jewish Studies , Jewish Studies – Minor (Arts)
+Kinesiology and Health Studies , Kinesiology – Specialization (Science) – Bachelor of Science (Honours)
+Kinesiology and Health Studies , Health Studies – Major (Arts) – Bachelor of Arts (Honours)
+Kinesiology and Health Studies , Health Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Kinesiology and Health Studies , Health Studies – General (Arts) – Bachelor of Arts
+Kinesiology and Health Studies , Health Studies – Minor (Arts)
+Kinesiology and Health Studies , Kinesiology – General (Science) – Bachelor of Science
+Kinesiology and Health Studies , Disability and Physical Activity Certificate
+Languages, Literatures and Cultures , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Languages, Literatures and Cultures , Hispanic Studies – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Indigenous Studies – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Languages, Literatures and Cultures – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Linguistics – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , German Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Hispanic Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Indigenous Studies –  Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Italian – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , German Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , German Studies – Minor (Arts)
+Languages, Literatures and Cultures , Hispanic Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Hispanic Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Indigenous Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Languages and Cultures Certificate
+Languages, Literatures and Cultures , Italian – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Italian – Minor (Arts)
+Languages, Literatures and Cultures , Linguistics – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Linguistics – Minor (Arts)
+Languages, Literatures and Cultures , Spanish and Latin American Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Spanish and Latin American Studies – Minor (Arts)
+Languages, Literatures and Cultures , World Language Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , World Language Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Languages and Cultures Certificate
+Languages, Literatures and Cultures , Mohawk Language and Culture Certificate
+Liberal Studies , Liberal Studies – General (Arts) – Bachelor of Arts
+Liberal Studies , Liberal Studies – Minor (Arts)
+Life Sciences , Environmental Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – Major (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – General (Science) – Bachelor of Science
+Life Sciences , Life Sciences – Minor (Science)
+Mathematics and Statistics , Biology and Mathematics – Specialization (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Computing, Mathematics and Analytics – Specialization (Computing) – Bachelor of Computing (Honours)
+Mathematics and Statistics , Mathematical Physics – Specialization (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Mathematics – Major (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Statistics – Major (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Mathematics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Mathematics and Statistics , Statistics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Mathematics and Statistics , Mathematics – General (Arts) – Bachelor of Arts
+Mathematics and Statistics , Mathematics – General (Science) – Bachelor of Science
+Mathematics and Statistics , Mathematics – Minor (Arts)
+Mathematics and Statistics , Mathematics – Minor (Science)
+Mathematics and Statistics , Statistics – General (Arts) – Bachelor of Arts
+Mathematics and Statistics , Statistics – General (Science) – Bachelor of Science
+Mathematics and Statistics , Statistics – Minor (Arts)
+Mathematics and Statistics , Statistics – Minor (Science)
+Philosophy , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Philosophy , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – Major (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – General (Arts) – Bachelor of Arts
+Philosophy , Philosophy – Minor (Arts)
+Physics, Engineering Physics and Astronomy , Astrophysics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Mathematical Physics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – Major (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – General (Arts) – Bachelor of Arts
+Physics, Engineering Physics and Astronomy , Physics – General (Science) – Bachelor of Science
+Physics, Engineering Physics and Astronomy , Physics – Minor (Arts)
+Physics, Engineering Physics and Astronomy , Physics – Minor (Science)
+Political Studies , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – Major (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – General (Arts) – Bachelor of Arts
+Political Studies , Political Studies – Minor (Arts)
+Psychology , Biology and Psychology – Specialization (Science) – Bachelor of Science (Honours)
+Psychology , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Psychology , Psychology – Major (Arts) – Bachelor of Arts (Honours)
+Psychology , Psychology – Major (Science) – Bachelor of Science (Honours)
+Psychology , Psychology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Psychology , Psychology – General (Arts) – Bachelor of Arts
+Psychology , Psychology – Minor (Arts)
+Religion , Religious Studies – Major (Arts) – Bachelor of Arts (Honours)
+Religion , Religious Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Religion , Religious Studies – General (Arts) – Bachelor of Arts
+Religion , Religious Studies – Minor (Arts)
+Sociology , Sociology – Major (Arts) – Bachelor of Arts (Honours)
+Sociology , Sociology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Sociology , Sociology – General (Arts) – Bachelor of Arts
+Sociology , Sociology – Minor (Arts)
+

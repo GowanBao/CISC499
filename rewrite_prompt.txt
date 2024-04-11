@@ -1,0 +1,1900 @@
+The following document contains a list of academic programs in the Faculty of Arts and Sciences at Queen's University, followed by a list of courses  offered. Each entry in the academic programs section is presented in the format of 'Degree Name, Program Name', representing the various degree programs available. Following this section, you will find a list of courses offered across these programs, presented in the format of 'Course Code, Course Name'.  
+
+With them, you get a one-to-one correspondence between course code and course name, and a one-to-many relationship between degree name and program name. 
+
+You can learn the names of all degrees and programs, the course code and course name of all courses, and the correspondence between degrees and programs. However, this file does not provide the correspondence between program and course.
+
+
+
+Degree Names and Program Names:
+Art History and Art Conservation , Computing and the Creative Arts - Specialization (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – Major (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Art History and Art Conservation , Art History – General (Arts) – Bachelor of Arts
+Art History and Art Conservation , Art History – Minor (Arts)
+Biochemistry , Biochemistry – Specialization (Science) – Bachelor of Science (Honours)
+Biochemistry , Biochemistry – Major (Science) – Bachelor of Science (Honours)
+Biochemistry , Biochemistry – General (Science) – Bachelor of Science
+Biochemistry , Biochemistry – Minor (Science)
+Biology , Biology and Mathematics – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biology and Psychology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biotechnology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Environmental Biology – Specialization (Science) – Bachelor of Science (Honours)
+Biology , Biology – Major (Science) – Bachelor of Science (Honours)
+Biology , Biology – General (Arts) – Bachelor of Arts
+Biology , Biology – General (Science) – Bachelor of Science
+Biology , Biology – Minor (Arts)
+Biology , Biology – Minor (Science)
+Chemistry , Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Chemistry , Environmental Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Chemistry , Chemistry – Major (Science) – Bachelor of Science (Honours)
+Chemistry , Chemistry – General (Arts) – Bachelor of Arts
+Chemistry , Chemistry– General (Science) – Bachelor of Science
+Chemistry , Chemistry – Minor (Arts)
+Chemistry , Chemistry – Minor (Science)
+Classics and Archaeology , Classics and Archaeology – Specialization (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Greek – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Latin – Major (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Greek – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Latin – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Classics and Archaeology , Classics and Archaeology – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Classics and Archaeology – Minor (Arts)
+Classics and Archaeology , Greek – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Greek – Minor (Arts)
+Classics and Archaeology , Latin – General (Arts) – Bachelor of Arts
+Classics and Archaeology , Latin – Minor (Arts)
+Computing , Biomedical Computing – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computing and the Creative Arts - Specialization (Arts) – Bachelor of Arts (Honours)
+Computing , Computing, Mathematics and Analytics – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computer Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Software Design – Specialization (Computing) – Bachelor of Computing (Honours)
+Computing , Computing – Major (Computing) – Bachelor of Computing (Honours)
+Computing , Computing – General (Computing) – Bachelor of Computing
+Computing , Computing – General (Arts) – Bachelor of Arts
+Computing , Computing – Minor (Arts)
+Computing , Computing - Minor (Science)
+Computing , Data Analytics Certificate
+Drama and Music , Computing and the Creative Arts – Specialization (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Media and Performance Production– Specialization (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Specialization (Music) – Bachelor of Music
+Drama and Music , Drama – Major (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Major (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Drama – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Music – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Drama and Music , Drama – General (Arts) – Bachelor of Arts
+Drama and Music , Drama – Minor (Arts)
+Drama and Music , Music – General (Arts) – Bachelor of Arts
+Drama and Music , Music – Minor (Arts)
+Drama and Music , Music Theatre – General (Music Theatre) – Bachelor of Music Theatre
+Drama and Music , Entrepreneurship, Innovation and Creativity Certificate
+Economics , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Economics , Applied Economics – Major (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – Major (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Economics , Economics – General (Arts) – Bachelor of Arts
+Economics , Economics – Minor (Arts)
+Employment Relations , Employment Relations – General (Arts) – Bachelor of Arts
+Employment Relations , Employment Relations – Minor (Arts)
+Employment Relations , Employment Relations Certificate
+English , English Language and Literature – Major (Arts) – Bachelor of Arts (Honours)
+English , English Language and Literature – Joint Honours (Arts) – Bachelor of Arts (Honours)
+English , English Language and Literature – General (Arts) – Bachelor of Arts
+English , English Language and Literature – Minor (Arts)
+Environmental Studies , Earth System Science – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Biology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Chemistry – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Geology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Toxicology – Specialization (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Science – Major (Science) – Bachelor of Science (Honours)
+Environmental Studies , Environmental Studies – Major (Arts) – Bachelor of Arts (Honours)
+Environmental Studies , Environmental Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Environmental Studies , Environmental Studies – General (Arts) – Bachelor of Arts
+Environmental Studies , Environmental Studies – Minor (Arts)
+Film and Media , Computing and the Creative Arts – Specialization (Arts) – Bachelor of Arts (Honours)
+Film and Media , Media and Performance Production – Specialization (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – Major (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Film and Media , Film and Media – General (Arts) – Bachelor of Arts
+Film and Media , Film and Media – Minor (Arts)
+Film and Media , Animation Theory and Practice Certificate
+Film and Media , Media Studies Certificate
+Fine Art , Fine Art (Visual Art) – Major – Bachelor of Fine Art (Honours)
+Fine Art , Fine Art (Visual Art) – General – Bachelor of Fine Art
+French Studies , French Studies – Major (Arts) – Bachelor of Arts (Honours)
+French Studies , French Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+French Studies , French Studies – General (Arts) – Bachelor of Arts
+French Studies , French Studies – Minor (Arts)
+French Studies , French for Professionals Certificate
+Gender Studies , Gender Studies – Major (Arts) – Bachelor of Arts (Honours)
+Gender Studies , Gender Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Gender Studies , Black Studies – General (Arts) – Bachelor of Arts
+Gender Studies , Black Studies – Minor (Arts)
+Gender Studies , Gender Studies – General (Arts) – Bachelor of Arts
+Gender Studies , Gender Studies – Minor (Arts)
+Gender Studies , Sexual and Gender Diversity Certificate
+Geography and Planning , Earth System Science – Specialization (Science) – Bachelor of Science (Honours)
+Geography and Planning , Geography – Major (Arts) – Bachelor of Arts (Honours)
+Geography and Planning , Geography – Major (Science) – Bachelor of Science (Honours)
+Geography and Planning , Geography – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Geography and Planning , Geography – General (Arts) – Bachelor of Arts
+Geography and Planning , Geography – General (Science) – Bachelor of Science
+Geography and Planning , Geography – Minor (Arts)
+Geography and Planning , Geography – Minor (Science)
+Geography and Planning , Geographic Information Science Certificate
+Geography and Planning , Urban Planning Studies Certificate
+Geological Sciences and Geological Engineering , Environmental Geology – Specialization (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – Major (Science) – Bachelor of Science (Honours)
+Geological Sciences and Geological Engineering , Geological Sciences – General (Arts) – Bachelor of Arts
+Geological Sciences and Geological Engineering , Geological Sciences – General (Science) – Bachelor of Science
+Geological Sciences and Geological Engineering , Geological Sciences – Minor (Arts)
+Geological Sciences and Geological Engineering , Geological Sciences – Minor (Science)
+Global Development Studies , Global Development Studies – Major (Arts) – Bachelor of Arts (Honours)
+Global Development Studies , Global Development Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Global Development Studies , Global Development Studies – General (Arts) – Bachelor of Arts
+Global Development Studies , Global Development Studies – Minor (Arts)
+Global Development Studies , Global Action and Engagement Certificate
+History , History – Major (Arts) – Bachelor of Arts (Honours)
+History , History – Joint Honours (Arts) – Bachelor of Arts (Honours)
+History , History – General (Arts) – Bachelor of Arts
+History , History – Minor (Arts)
+International Studies , International Studies Certificate
+Jewish Studies , Jewish Studies – General (Arts) – Bachelor of Arts
+Jewish Studies , Jewish Studies – Minor (Arts)
+Kinesiology and Health Studies , Kinesiology – Specialization (Science) – Bachelor of Science (Honours)
+Kinesiology and Health Studies , Health Studies – Major (Arts) – Bachelor of Arts (Honours)
+Kinesiology and Health Studies , Health Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Kinesiology and Health Studies , Health Studies – General (Arts) – Bachelor of Arts
+Kinesiology and Health Studies , Health Studies – Minor (Arts)
+Kinesiology and Health Studies , Kinesiology – General (Science) – Bachelor of Science
+Kinesiology and Health Studies , Disability and Physical Activity Certificate
+Languages, Literatures and Cultures , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Languages, Literatures and Cultures , Hispanic Studies – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Indigenous Studies – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Languages, Literatures and Cultures – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Linguistics – Major (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , German Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Hispanic Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Indigenous Studies –  Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , Italian – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Languages, Literatures and Cultures , German Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , German Studies – Minor (Arts)
+Languages, Literatures and Cultures , Hispanic Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Hispanic Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Indigenous Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Languages and Cultures Certificate
+Languages, Literatures and Cultures , Italian – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Italian – Minor (Arts)
+Languages, Literatures and Cultures , Linguistics – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Linguistics – Minor (Arts)
+Languages, Literatures and Cultures , Spanish and Latin American Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , Spanish and Latin American Studies – Minor (Arts)
+Languages, Literatures and Cultures , World Language Studies – General (Arts) – Bachelor of Arts
+Languages, Literatures and Cultures , World Language Studies – Minor (Arts)
+Languages, Literatures and Cultures , Indigenous Languages and Cultures Certificate
+Languages, Literatures and Cultures , Mohawk Language and Culture Certificate
+Liberal Studies , Liberal Studies – General (Arts) – Bachelor of Arts
+Liberal Studies , Liberal Studies – Minor (Arts)
+Life Sciences , Environmental Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – Specialization (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – Major (Science) – Bachelor of Science (Honours)
+Life Sciences , Life Sciences – General (Science) – Bachelor of Science
+Life Sciences , Life Sciences – Minor (Science)
+Mathematics and Statistics , Biology and Mathematics – Specialization (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Computing, Mathematics and Analytics – Specialization (Computing) – Bachelor of Computing (Honours)
+Mathematics and Statistics , Mathematical Physics – Specialization (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Mathematics – Major (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Statistics – Major (Science) – Bachelor of Science (Honours)
+Mathematics and Statistics , Mathematics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Mathematics and Statistics , Statistics – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Mathematics and Statistics , Mathematics – General (Arts) – Bachelor of Arts
+Mathematics and Statistics , Mathematics – General (Science) – Bachelor of Science
+Mathematics and Statistics , Mathematics – Minor (Arts)
+Mathematics and Statistics , Mathematics – Minor (Science)
+Mathematics and Statistics , Statistics – General (Arts) – Bachelor of Arts
+Mathematics and Statistics , Statistics – General (Science) – Bachelor of Science
+Mathematics and Statistics , Statistics – Minor (Arts)
+Mathematics and Statistics , Statistics – Minor (Science)
+Philosophy , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Philosophy , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – Major (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Philosophy , Philosophy – General (Arts) – Bachelor of Arts
+Philosophy , Philosophy – Minor (Arts)
+Physics, Engineering Physics and Astronomy , Astrophysics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Mathematical Physics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – Specialization (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – Major (Science) – Bachelor of Science (Honours)
+Physics, Engineering Physics and Astronomy , Physics – General (Arts) – Bachelor of Arts
+Physics, Engineering Physics and Astronomy , Physics – General (Science) – Bachelor of Science
+Physics, Engineering Physics and Astronomy , Physics – Minor (Arts)
+Physics, Engineering Physics and Astronomy , Physics – Minor (Science)
+Political Studies , Politics, Philosophy and Economics – Specialization (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – Major (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Political Studies , Political Studies – General (Arts) – Bachelor of Arts
+Political Studies , Political Studies – Minor (Arts)
+Psychology , Biology and Psychology – Specialization (Science) – Bachelor of Science (Honours)
+Psychology , Cognitive Science – Specialization (Computing) – Bachelor of Computing (Honours)
+Psychology , Psychology – Major (Arts) – Bachelor of Arts (Honours)
+Psychology , Psychology – Major (Science) – Bachelor of Science (Honours)
+Psychology , Psychology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Psychology , Psychology – General (Arts) – Bachelor of Arts
+Psychology , Psychology – Minor (Arts)
+Religion , Religious Studies – Major (Arts) – Bachelor of Arts (Honours)
+Religion , Religious Studies – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Religion , Religious Studies – General (Arts) – Bachelor of Arts
+Religion , Religious Studies – Minor (Arts)
+Sociology , Sociology – Major (Arts) – Bachelor of Arts (Honours)
+Sociology , Sociology – Joint Honours (Arts) – Bachelor of Arts (Honours)
+Sociology , Sociology – General (Arts) – Bachelor of Arts
+Sociology , Sociology – Minor (Arts)
+
+Course Codes and Names:
+CISC 121 , Introduction to Computing Science I
+CISC 124 , Introduction to Computing Science II
+CISC 102 , Discrete Mathematics for Computing l
+MATH 110 , Linear Algebra
+COCA 201 , Introduction to Computing and the Creative Arts
+CISC 203 , Discrete Mathematics for Computing II
+CISC 204 , Logic for Computing Science
+CISC 223 , Software Specifications
+CISC 235 , Data Structures
+CISC 325 , Human-Computer Interaction
+CISC 352 , Artificial Intelligence
+CISC 360 , Programming Paradigms
+CISC 365 , Algorithms I
+ARTH 120 , Art in the West from Antiquity to Modernity
+BADR 100 , Thinking Locally
+BADR 101 , Acting Globally
+DRAM 100 , Introduction to Theatre
+DRAM 200 , Theatre History and Literature I
+DRAM 220 , Play Reading and Analysis
+DRAM 240 , Introduction to Theatre Space
+DRAM 241 , Design and Theatre
+DRAM 242 , Introduction to Theatre Production
+FILM 110 , Film, Media and Screen Cultures
+ANIM 200 , Introduction to Animation
+FILM 206 , Research and Writing Methods for Film and Media
+FILM 207 , Writing Foundations for Film and Media
+FILM 216 , Historical Inquiry
+FILM 217 , Film and Media History and Theory Pre-1960
+FILM 218 , Film and Media History and Theory Post-1960
+FILM 226 , Critical Inquiry
+FILM 236 , Media and Cultural Studies
+FILM 240 , Media and Popular Culture
+FILM 257 , Film and Media Concept Development
+FILM 260 , Digital Media Theory
+FILM 250 , Fundamentals of Media Production
+MUSC 104 , Music Fundamentals
+MUSC 105 , Foundations in Tonal Music
+MUSC 156 , Introduction to Digital Audio Recording, Editing, and Mixing
+MUSC 255 , Electroacoustic Music Composition
+MUSC 191 , Theory and Analysis I
+MUTH 110 , The Republic to Rationalism: History, Arts, and Performance l
+MUTH 111 , Listening to Revolutions: History, Arts, and Performance ll
+MUSC 210 , Western Art Music: Crusades to Colonialism
+MUSC 211 , Western Art Music: Industrialization to the Internet
+FILM 312 , Screenwriting
+COMM 365 , Advanced Business Decision Modeling
+ELEC 470 , Computer System Architecture
+ELEC 474 , Machine Vision
+MATH 272 , Applications of Numerical Methods
+MATH 337 , Stochastic Models in Operations Research
+MATH 401 , Graph Theory
+MATH 402 , Enumerative Combinatorics
+MATH 434 , Optimization Theory with Applications to Machine Learning
+MATH 474 , Information Theory
+CLST 312 , Greek and Roman Drama
+DRAM 335 , Acting for the Screen
+ENGL 256 , Shakespeare
+ENGL 257 , Elizabethan Shakespeare
+ENGL 258 , Jacobean Shakespeare
+ENGL 259 , Global Shakespeare
+ENGL 326 , Shakespeare and Renaissance Drama
+ENGL 335 , English Drama to 1700
+FILM 381 , Audience Reception
+FREN 305 , Le théâtre depuis 1945
+IDIS 210 , Arts in Society
+IDIS 410 , Contemporary Cultural Performance in Practice
+ITLN 357 , Pirandello's Theatre
+LLCU 200 , Semiotics: Interpreting the World
+LLCU 257 , Pirandello's Theatre
+LLCU 301 , Oral Tradition and Innovation in Cultural Transmission
+LLCU 332 , Spanish Baroque Short Theatre
+LLCU 339 , XX-Century Italian Playwrights: In Search of the Theatre
+MAPP 300 , Media and Performance II
+MUSC 287 , Percussion Techniques and Methods
+DRAM 247 , Drama Practicum
+GNDS 410 , Special Topics in Gender Studies
+LLCU 244 , Hips Don't Lie?: Music and Culture in Latin America
+MAPP 311 , Sound Production
+CLST 309 , Caravan Cities of the Ancient Near East
+CLST 404 , The Topography of Athens
+CLST 405 , The Topography of Rome
+GNDS 350 , Feminism, the Body and Visual Culture
+GNDS 351 , Gender, Dress and Fashion
+GNDS 352 , Gender, Cloth and Globalization
+CHEM 112 , General Chemistry
+BIOL 102 , Fundamentals of Biology: Molecular and Cell Biology
+BIOL 103 , Fundamentals of Biology: Organisms to Ecosystems
+BCHM 102 , Introduction to Biochemistry
+PATH 120 , Understanding Human Disease in the 21st Century
+CISC 151 , Elements of Computing with Data Analytics
+BCHM 218 , Molecular Biology
+CHEM 211 , Main Group Chemistry
+CHEM 212 , Principles of Chemical Reactivity
+CHEM 222 , Methods of Structure Determination
+CHEM 223 , Organic Reactions
+BIOL 243 , Introduction to Statistics
+STAM 200 , Introduction to Statistics
+BCHM 313 , Molecular Biochemistry
+BCHM 315 , Proteins and Enzymes
+BCHM 316 , Metabolism
+BCHM 317 , Introductory Biochemistry Laboratory
+BCHM 410 , Protein Structure and Function
+BCHM 411 , Advanced Molecular Biology
+BCHM 421 , Advanced Biochemistry Laboratory I
+BCHM 422 , Advanced Biochem Lab II
+BCHM 432 , The Molecular Basis of Cellular Function
+BCHM 442 , Seminars in Biochemistry
+MATH 130 , Mathematics for Biochemistry and Life Sciences
+PHYS 115 , Introduction to Physics I
+MATH 120 , Differential and Integral Calculus
+MATH 121 , Differential and Integral Calculus
+PHYS 104 , Fundamental Physics
+PHYS 106 , General Physics
+PHYS 118 , Basic Physics
+BIOL 205 , Mendelian and Molecular Genetics
+BIOL 206 , Evolutionary Genetics
+ANAT 309 , Functional Histology
+ANAT 312 , Functional Neuroanatomy
+ANAT 315 , The Human Musculoskeletal System
+ANAT 316 , The Human Visceral Systems
+BIOL 300 , Ecology
+BIOL 321 , Animal Behaviour
+BIOL 323 , Vertebrate Diversity and Evolution
+BIOL 335 , Limnology and Aquatic Ecology
+BIOL 403 , Experimental Techniques in Biology
+BIOL 404 , Techniques in Molecular Biology
+CHEM 397 , Experimental Chemistry
+CHEM 398 , Experimental Chemistry I
+CHEM 399 , Experimental Chemistry II
+LISC 390 , Integrated Life Science Laboratory I
+LISC 391 , Integrated Life Sciences Laboratory
+MICR 435 , Advanced Procaryotic Structure and Function
+PHGY 355 , Biomedical Respiratory Physiology
+BCHM 370 , Genetics and Genomics
+BCHM 482 , Proteomics and Metabolomics
+BIOL 212 , Scientific Methods in Biology
+BIOM 300 , Modeling Techniques in Biology
+BMED 470 , Principles of 'Omics'
+HLTH 323 , Epidemiology
+MATH 221 , Vector Calculus
+MATH 225 , Ordinary Differential Equations
+MATH 228 , Complex Analysis
+MATH 339 , Evolutionary Game Theory
+PHYS 206 , Dynamics
+PHYS 216 , Introduction to Astrophysics
+PHYS 242 , Relativity and Quanta
+PSYC 100 , Principles of Psychology
+PSYC 236 , Introduction to Clinical Psychology
+PSYC 251 , Developmental Psychology
+PSYC 271 , Brain and Behaviour I
+PSYC 323 , Laboratory in Attention
+PSYC 333 , Human Sexuality
+PSYC 353 , Atypical Development
+PSYC 355 , Comparative Cognition: Cognitive Origins Laboratory
+PSYC 370 , Brain and Behaviour II
+PSYC 420 , Advanced Topics in Cognitive Psychology
+PSYC 422 , Advanced Topics in Attention
+PSYC 470 , Advanced Topics in Behavioural Neuroscience
+EDST 471 , Psyc Of Learning Diff-Sec Scl
+PSYC 473 , Neurobiology of Psychiatric Disorders
+ANAT 270 , Human Anatomy and Morphology
+BCHM 270 , Biochemical Basis of Health and Disease
+CANC 497 , Current Topics in Cancer Biology and Genetics
+MICR 270 , Infection, Immunity and Inflammation
+PHGY 170 , Human Cell Physiology
+BCHM 441 , Current Topics in Biochemistry
+CHEM 311 , Mechanistic Organic Chemistry
+BCHM 310 , General Biochemistry
+BMED 384 , Integrative Laboratory Course
+BMED 480 , Clinical Applications of Human Anatomy
+CHEE 209 , Analysis Of Process Data
+COMM 162 , Managerial Statistics
+ECON 250 , Introduction to Statistics
+ENSC 201 , Environmental Toxicology and Chemical Risks
+ENSC 301 , Environmental Assessment
+ENSC 307 , Marine Environmental Issues
+ENSC 320 , Wildlife Issues in a Changing World
+ENSC 407 , Global Water Issues
+ENSC 425 , Ecotoxicology
+ENSC 471 , Environmental Analysis Methods
+ENSC 480 , Special Topics in Environmental Science
+GLPH 472 , Special Populations: Neonatal to End-of-Life-Care
+HLTH 230 , Basic Human Nutrition
+HLTH 331 , Advanced Human Nutrition
+HSCI 270 , Fundamentals of Health Research Methodology
+KNPE 125 , Introduction to Human Physiology
+KNPE 153 , Introductory Biomechanics
+KNPE 225 , Advanced Human Physiology
+KNPE 227 , Exercise Physiology
+KNPE 251 , Introduction to Statistics
+KNPE 254 , Biomechanical Analysis of Human Movement
+KNPE 255 , Physical Activity, Fitness, and Health
+KNPE 261 , Theory of Motor Behaviour and Motor Learning
+KNPE 327 , Exercise Physiology Laboratory
+KNPE 339 , Advanced Exercise Metabolism
+KNPE 354 , Occupational Biomechanics and Physical Ergonomics
+KNPE 355 , Lifestyle and Cardiometabolic Assessment Laboratory
+KNPE 425 , Physiology of Stress
+KNPE 429 , Skeletal Muscle Oxygen Delivery: Demand Matching in Exercise
+KNPE 439 , Critical Appraisal and Translation of Muscle Physiology Research
+KNPE 450 , Ergonomics
+KNPE 454 , Clinical Biomechanics
+KNPE 455 , Advanced Physical Activity and Health
+KNPE 459 , Clinical Exercise Physiology
+KNPE 493 , Special Topics in Kinesiology
+NURS 323 , Introduction to Statistics
+NURS 324 , Research in Nursing
+POLS 285 , Introduction to Statistics
+PSYC 101 , Principles of Psychology l
+PSYC 102 , Principles of Psychology ll
+PSYC 103 , Principles of Psychology lll
+PSYC 202 , Statistics in Psychology
+PSYC 203 , Research Methods in Psychology
+PSYC 221 , Cognitive Psychology
+PSYC 299 , Introduction to Directed Research in Psychology
+PSYC 301 , Advanced Statistical Inference
+PSYC 302 , Advanced Research Methods
+PSYC 450 , Advanced Topics in Developmental Psychology
+SOCY 210 , Social Research Methods
+SOCY 211 , Introduction to Statistics
+BIOL 200 , Diversity of Life
+BIOL 334 , Comparative Biochemistry
+BIOL 339 , Animal Physiology
+BIOL 341 , Plant Physiology
+BIOL 330 , Cell Biology
+MATH 111 , Linear Algebra
+MATH 123 , Differential and Integral Calculus I
+MATH 124 , Differential and Integral Calculus II
+MATH 280 , Advanced Calculus
+MATH 231 , Differential Equations
+STAT 252 , Introductory Applied Probability
+STAT 268 , Statistics and Probability I
+STAT 351 , Probability I
+STAT 269 , Statistics and Probability II
+MICR 221 , Fundamental Microbiology
+MICR 271 , Introduction to Microbiology
+APSC 400 , Technology, Engineering & Management (TEAM)
+CHEE 400 , Technology, Engineering & Management (TEAM)
+ENSC 390 , Sustainability
+EPID 301 , Principles of Epidemiology
+GEOL 337 , Paleontology
+GEOL 466 , Isotopes and the Environment
+GPHY 304 , Northern and Arctic Environments
+GPHY 306 , Natural Environmental Change
+GPHY 310 , Landscape Ecology
+GPHY 314 , Climate Change
+GPHY 315 , Advanced Field Measurements and Their Analysis
+GPHY 318 , Advanced Biogeography
+GPHY 339 , Medical Geography
+PHAR 340 , Principles of General Pharmacology I
+PHAR 370 , Fundamentals of Pharmacology and Therapeutics
+PHIL 301 , Bioethics
+STAT 353 , Probability II
+PSYC 241 , Social Psychology
+PHYS 116 , Introduction to Physics II
+PSYC 315 , Introduction to the Analysis of Psychological Signals
+PSYC 321 , Psycholinguistics
+PSYC 338 , Laboratory in Clinical Psychology
+PSYC 360 , The Neurobiology and Psychology of Sleep
+PSYC 375 , Comparative Cognition: Animal Learning Laboratory
+PSYC 380 , Advanced Perception
+PSYC 495 , Advanced Topics in Psychology
+PSYC 570 , Directed Special Laboratory I
+PSYC 575 , Directed Special Laboratory II
+PSYC 305 , Introduction to Comparative Cognition
+PSYC 320 , Selected Topics in Cognitive Neuroscience
+PSYC 325 , Cognitive Neuroscience
+PSYC 365 , Selected Topics in Behavioural Neuroscience
+PSYC 366 , Gender/Sex, Hormones, and Behaviour
+PSYC 376 , Functional Neuroimaging the Human Brain and Mind
+PSYC 377 , Decision-Making and the Brain: Principles of Neuroeconomics
+PSYC 421 , Memory and the Brain
+PSYC 423 , Visual Cognition in the Real World
+PSYC 424 , Research Into Spontaneous Thought
+PSYC 330 , Selected Topics in Clinical Psychology
+PSYC 331 , Introduction to Personality
+PSYC 332 , Health Psychology
+PSYC 334 , Laboratory in Psychological Testing
+PSYC 335 , Positive Psychology
+PSYC 336 , Advanced Adult Clinical Psychology
+PSYC 337 , Advanced Child Clinical Psychology
+PSYC 428 , Psychotic Disorders
+PSYC 429 , Pain: Body and Mind
+PSYC 433 , Human Sexual Function and Dysfunction
+PSYC 435 , Advanced Topics in Clinical Psychology
+PSYC 436 , Sexuality and Gender
+PSYC 437 , Mood Disorders
+PSYC 438 , Self-Injury and Suicide
+PSYC 439 , Interpersonal Processes in Depression
+PSYC 350 , Selected Topics in Developmental Psychology
+PSYC 351 , Social and Emotional Development
+PSYC 352 , Cognitive and Language Development
+PSYC 354 , Language
+PSYC 358 , Developmental Social Neuroscience
+PSYC 451 , Brain Development
+PSYC 452 , Developmental Psycholinguistics
+PSYC 453 , Infancy
+PSYC 454 , Child in Society
+PSYC 455 , Adolescence
+PSYC 456 , Theory of Mind
+PSYC 458 , Neurobiology of Socio-Emotional Development in Adolescence
+PSYC 459 , Socioemotional Development in the Digital Age
+PSYC 340 , Selected Topics in Social Psychology
+PSYC 341 , Laboratory in Social Psychology
+PSYC 342 , The Psychology of Social Influence
+PSYC 343 , Judgement and Decision Making
+PSYC 430 , The Self
+PSYC 440 , Advanced Topics in Social Psychology
+PSYC 441 , Attitudes and Persuasion
+PSYC 442 , Culture and Cognition
+PSYC 443 , Intimate Relationships
+CISC 452 , Neural and Genetic Computing
+CISC 453 , Topics in Artificial Intelligence
+CISC 455 , Evolutionary Optimization and Learning
+CISC 467 , Fuzzy Logic
+CISC 474 , Reinforcement Learning
+COGS 201 , Cognition and Computation
+COGS 300 , Programming Cognitive Models
+COGS 400 , Neural and Genetic Cognitive Models
+COMM 231 , Fundamentals of Marketing
+COMM 251 , Organizational Behaviour
+COMM 333 , Marketing Strategy
+COMM 351 , Leadership
+COMM 352 , Organizational Analysis
+ECON 261 , Canadian Labour Relations
+GPHY 336 , Geography, the Environment and Human Health
+INTS 306 , Culture, Identity, and Self
+INTS 307 , Intercultural Relations
+LING 310 , Phonetics
+NSCI 323 , Cellular Neuroscience
+NSCI 324 , Systems Neuroscience
+NSCI 325 , The Science of Psychedelics
+NSCI 401 , Introduction to Theoretical Neuroscience
+NSCI 414 , Progress in Neuroanatomy and Neuropharmacology
+PHIL 311 , Philosophy of Psychology
+PHIL 351 , Philosophy of Mind
+POLS 312 , Political Behaviour
+POLS 313 , Mass Media and Politics in Canada
+SOCY 275 , Theories of Deviance and Social Control
+SOCY 276 , Substantive Issues in Social Deviance
+SOCY 387 , Sociology of Crime and Delinquency
+SOCY 388 , Sociology of Criminal Justice
+SOCY 389 , Gender, Law, and Crime
+STAT 463 , Fundamentals of Statistical Inference
+STAT 464 , Discrete Time Series Analysis
+STAT 471 , Sampling and Experimental Design
+STAT 473 , Generalized Linear Models
+STAT 486 , Survival Analysis
+BIOL 401 , Experimental Approaches to Animal Physiology
+BIOL 402 , Experiments in Plant Physiology
+BIOL 360 , Biotechnology and Society
+BIOL 441 , Molecular Genetics
+BIOL 503 , Plant Biotechnology
+BIOL 507 , Biotechnology
+PHGY 215 , Principles of Mammalian Physiology l
+PHGY 216 , Principles of Mammalian Physiology ll
+BIOL 537 , Research in Biology
+BIOL 541 , Research in Biotechnology
+MATH 126 , Differential and Integral Calculus
+BIOL 538 , Research Mentorship in Biology I
+BIOL 539 , Research Mentorship in Biology II
+BIOL 540 , Research Mentorship in Biology
+BIOL 315 , Plants and Human Culture
+BIOL 331 , Analytical Genomics
+BIOL 333 , Applied Biology
+BIOL 343 , Data Analysis for Biologists
+BIOL 409 , Bioremediation
+BIOL 430 , Molecular Genetics of Development
+BIOL 431 , Cellular Basis of Adaptation
+BIOL 432 , Computation and Big Data in Biology
+BIOL 501 , Recent Research in Molecular
+BIOL 502 , Plant Cell Responses to Environmental Stress
+BIOL 504 , Extremophiles
+BIOL 505 , Cell Signaling in Development and Disease
+BIOL 506 , Biochemical Adaptations to Life Under Extreme Conditions
+BIOL 508 , Biology of the Cell Cycle
+CHEE 229 , Cell Based Engineering Princip
+CHEE 342 , Environmental Biotechnology
+CHEE 380 , Biochemical Engineering
+CHEE 440 , Pharmaceutical Technology
+CHEE 484 , Bioremediation
+DDHT 459 , Principles of Drug Discovery
+DDHT 460 , Principles of Drug Development
+MICR 320 , Microbes in Health and Disease
+MICR 360 , Immunology
+MICR 386 , Fundamentals of Immunology in Health and Disease
+MICR 451 , Viral Pathogenesis
+MICR 461 , Advanced Immunology
+PHAR 416 , Xenobiotic Disposition and Toxicity
+PHAR 450 , Principles of General Pharmacology II
+PHAR 480 , Drug Discovery and Development
+GPHY 101 , Human Geography
+GPHY 102 , Physical Geography and Natural Resources
+GEOL 104 , The Dynamic Earth
+GEOL 107 , History of Life
+ENSC 103 , Environment and Sustainability
+ENSC 230 , Principles of Sustainability
+ENSC 330 , Applications of Sustainability
+ENSC 502 , Research Project Sustainability
+ENSC 430 , Honours Projects in Environmental Sustainability
+ENSC 501 , Independent Environmental Study
+GEOL 106 , Environmental Geology and Natural Hazards
+GEOL 200 , Oceanography
+GPHY 207 , Principles of Biogeography
+GPHY 209 , Weather and Climate
+GPHY 312 , Watershed Hydrology
+GPHY 317 , Soil, Environment, and Society
+GPHY 319 , Contemporary Energy Resources
+CLST 214 , Ancient Science
+DEVS 220 , Introduction to Indigenous Studies
+DEVS 221 , Indigenous Studies II - Resistance and Resurgence
+PHIL 203 , Science and Society
+PHIL 293 , Humans and the Natural World
+PHIL 310 , Development Ethics
+PHIL 493 , Ethics and the Environment
+RELS 235 , Religion and Environment
+BIOL 110 , Human Genetics and Evolution
+BIOL 111 , Ecology and the Environment
+BIOL 369 , Sex and Evolution
+MATH 112 , Introduction to Linear Algebra
+CHEM 213 , Introduction to Chemical Analysis
+CHEM 221 , Material, Solutions, and Interfaces
+CHEM 312 , Transition Metal Chemistry
+CHEM 313 , Quantum Mechanics
+CHEM 321 , Instrumental Chemical Analysis
+CHEM 322 , The Chemical Bond: Computation and Spectroscopy
+CHEM 323 , Biological Chemistry
+CHEM 497 , Research Project
+CHEM 326 , Environmental and Green Chemistry
+CLST 102 , Introduction to Greek Civilization
+CLST 103 , Introduction to Roman Civilization
+GREK 112 , Introductory Greek
+LATN 110 , Introductory Latin
+CLST 200 , Greek History
+CLST 201 , Roman History
+GREK 208 , Intermediate Greek
+LATN 209 , Intermediate Latin
+LATN 321 , Latin Prose
+LATN 322 , Latin Verse
+GREK 321 , Greek Prose
+GREK 322 , Greek Verse
+ARTH 212 , Medieval Art
+ARTH 214 , Renaissance Art and Architecture before 1500
+ARTH 215 , Renaissance Art and Architecture After 1500
+GPHY 341 , Photogrammetry
+HIST 215 , Sport, Virtue, and Violent Spectacle from Antiquity to the Renaissance
+HIST 218 , Byzantium
+HIST 225 , The Early Middle Ages
+HIST 255 , Renaissance and Reformation Europe
+LLCU 201 , Introduction to Romance Philology
+LLCU 210 , Italy and the Classical Tradition
+PHIL 233 , Greek Philosophy
+PHIL 328 , Ancient Philosophy
+RELS 212 , Mythology of the Ancient Near East
+RELS 228 , Sages, Scholars and Rabbis
+RELS 321 , Greek and Roman Religions
+STAT 263 , Introduction to Statistics
+CISC 221 , Computer Architecture
+CISC 271 , Linear Data Analysis
+CISC 330 , Computer-Integrated Surgery
+CISC 320 , Fundamentals of Software Development
+CISC 332 , Database Management Systems
+CISC 471 , Computational Biology
+CISC 472 , Medical Informatics
+CISC 497 , Social, Ethical and Legal Issues in Computing
+CISC 495 , Software Evolution
+CISC 499 , Advanced Undergraduate Project
+CISC 500 , Undergraduate Thesis
+CHEM 281 , General Organic Chemistry I (with Virtual Laboratory)
+CHEM 282 , General Organic Chemistry II
+CHEM 285 , General Organic Chemistry II (with Virtual Laboratory)
+GPHY 247 , Introduction to Statistics
+COGS 100 , Introduction to Cognitive Science
+COGS 499 , Advanced Undergraduate Project
+LING 100 , Introduction to Linguistics
+LING 320 , Phonology
+LING 330 , Morphology
+LING 340 , Syntax
+LING 415 , Semantics
+PHIL 111 , What is Philosophy?
+PHIL 115 , Fundamental Questions
+PHIL 250 , Epistemology and Metaphysics
+PHIL 261 , Philosophy of Mathematics
+PHIL 270 , Minds and Machines
+PHIL 359 , Philosophy of Language
+PHIL 381 , Philosophy of the Natural Sciences
+PSYC 501 , Honours Thesis
+CISC 351 , Advanced Data Analytics
+CISC 371 , Nonlinear Data Analysis
+CISC 372 , Advanced Data Analytics
+CISC 451 , Topics in Data Analytics
+CISC 473 , Deep Learning
+CISC 220 , System Level Programming
+CISC 226 , Game Design
+CISC 340 , Digital Systems
+CISC 425 , Advanced User Interface Design
+CISC 454 , Graphics (A)
+CISC 457 , Image Processing and Computer
+CISC 465 , Semantics of Programming Languages
+CISC 486 , Game Development
+CISC 496 , Game Development Project
+PHIL 451 , Current Issues in Epistemology
+FOUN 452 , Phil Of Ed For Teacher Of Lit
+PHIL 464 , Topics in Philosophy of Mind
+CISC 322 , Software Architecture
+CISC 326 , Game Architecture
+CISC 324 , Operating Systems
+MATH 210 , Rings and Fields
+MATH 211 , Algebraic Methods
+MATH 310 , Group Theory
+MATH 311 , Elementary Number Theory
+MATH 413 , Introduction to Algebraic Geometry
+MATH 414 , Introduction to Galois Theory
+STAT 361 , Applied Methods in Statistics I
+MATH 406 , Introduction to Coding Theory
+MATH 418 , Number Theory and Cryptography
+MATH 477 , Data Compression and Source Coding: Theory and Algorithms
+STAT 456 , Bayesian Analysis
+STAT 457 , Statistical Learning II
+STAT 462 , Statistical Learning I
+CISC 422 , Formal Methods in Software Engineering
+CISC 462 , Computability and Complexity
+CISC 327 , Software Quality Assurance
+CISC 335 , Computer Networks
+CISC 447 , Introduction to Cybersecurity
+CISC 434 , Distributed Systems
+CISC 448 , Software Reliability and Security
+CISC 468 , Cryptography
+GLPH 271 , Global and Population Health
+GLPH 385 , Biohacking & Gerontechnology
+GLPH 471 , Advanced Global and Population Health
+GLPH 482 , Foundations of Humanitarian Health Emergencies
+GLPH 488 , Global Oncology: Cancer Care, Policy, Research, and Education
+GLPH 487 , One World, One Health: The Global Link Between Human, Animal, and Environmental Health
+GLPH 493 , Global Health Practice
+KNPE 167 , Socio-Cult Dimensions of Sport and Physical Activity
+KNPE 203 , Coaching and Leadership in Sport
+KNPE 237 , Child and Adolescent Motor Development
+KNPE 265 , Psychology of Sport and Exercise
+KNPE 300 , Community-Based Practicum
+KNPE 331 , Care and Prevention of Athletic Injuries
+KNPE 335 , Healthy Aging
+KNPE 336 , Community Field Placement in Disability and Physical Activity
+KNPE 337 , Physical Activity Promotion for Children and Youth
+KNPE 338 , Field Course in Kinesiology and Health Studies
+KNPE 345 , The Science and Methodology of Sport Training Conditioning Programs
+KNPE 346 , Strength and Conditioning Field Placement
+KNPE 363 , Team Dynamics in Sport: Theory and Practice
+KNPE 365 , Motivational Interviewing for Physical Activity Behaviour Change
+KNPE 367 , Fitness, the Body, and Culture
+KNPE 397 , Special Topics in Kinesiology
+KNPE 400 , Professional Issues in Allied Health
+KNPE 430 , Athletic Therapy Internship
+KNPE 433 , Global Sport and Disability
+KNPE 436 , Advanced Placement in Disability and Physical Activity
+KNPE 446 , Strength and Conditioning Internship
+KNPE 463 , Community-Based Physical Activity Promotion
+KNPE 465 , Sport Participation and Performance
+KNPE 473 , Sport and Culture
+CISC 423 , Software Requirements
+CISC 498 , Information Technology Project
+PHIL 259 , Critical Thinking
+WRIT 125 , Fundamentals of Academic Essay Writing
+WRIT 175 , Effective Writing II
+APSC 221 , Economic And Business Practice
+COMM 200 , Business Fundamentals
+CISC 282 , Fundamentals of Web Development
+CISC 432 , Advanced Data Management Systems
+CISC 437 , Performance Analysis
+CISC 458 , Programming Language Processors (S)
+CISC 251 , Data Analytics
+CISC 181 , Digital Societies
+EMPR 370 , Human Resource Analytics
+PATH 411 , Applied Data Science in Molecular Medicine
+SOCY 284 , Sociology of Information and Communication Technology
+SOCY 309 , Surveillance and Society
+STAT 466 , Statistical Programming with SAS and Applications
+FILM 214 , Mobile Communications
+DRAM 246 , Technical Practicum
+MUSC 247 , Music Practicum
+MAPP 200 , Media and Performance I
+FILM 377 , 3D Animation
+FILM 379 , Virtual and Augmented Reality App Development
+MAPP 401 , Special Topics in Media and Performance
+MAPP 493 , Visual Music
+DRAM 205 , Theatre and Pop Culture
+FILM 341 , Studies in Mass Media
+FILM 342 , Studies in Alternative Media
+MUSC 491 , Music and Mass Media
+MUTH 380 , Research Methods in Performing Arts
+MUTH 387 , Research Methods in Performing Arts Education
+MUTH 472 , Performance in Times of Crisis
+MAPP 400 , Media and Performance Major Project
+DRAM 237 , Elementary Acting I - The Actor's Instrument
+DRAM 238 , Elementary Acting II - Theories and Styles of Acting
+DRAM 239 , Special Topics in Performance I
+DRAM 273 , Medieval Drama Performance
+DRAM 331 , Playing Shakespeare
+DRAM 332 , Performing with Masks
+DRAM 339 , Special Topics in Performance II
+DRAM 373 , Scene Study at the Shaw Festival
+MUSC 100 , Small Ensemble
+MUSC 112 , Medium Ensemble
+MUSC 115 , Large Ensemble
+MUSC 124 , Applied Music I
+MUSC 200 , Small Ensemble
+MUSC 212 , Medium Ensemble
+MUSC 215 , Large Ensemble
+MUSC 224 , Applied Music II
+MUSC 300 , Small Ensemble
+MUSC 312 , Medium Ensemble
+MUSC 315 , Large Ensemble
+MUSC 324 , Applied Music III
+MUSC 400 , Small Ensemble
+MUSC 412 , Medium Ensemble
+MUSC 415 , Large Ensemble
+MUSC 424 , Applied Music IV
+MUTH 210 , Physiology and Production of the Voice
+MUTH 211 , Dance for Music Theatre
+MUTH 310 , Dancer-Singer in Music Theatre
+MUTH 333 , Music Theatre Creation Lab
+ANIM 201 , Animation Festival Programming
+ANIM 400 , Special Topics in Animation
+CWRI 393 , Intermediate Writing in Prose
+ENIN 140 , Design Thinking
+FILM 310 , Archival Remediation and Restoration of Time-based Media
+FILM 318 , Curating Media Practices
+FILM 351 , Documentary Production
+FILM 352 , Production: Issues of Form and Structure
+FILM 356 , Animation Production
+FILM 369 , Advanced Animation Production
+FILM 370 , The Experimental Tradition
+FILM 387 , Cinematography and Visual Aesthetics
+FILM 390 , Open Media Production
+FILM 391 , Advanced Open Media Production
+FILM 392 , Video Production
+FILM 393 , Advanced Video Production
+FILM 394 , Post-Production
+FILM 401 , Special Effects
+FILM 451 , Production: Special Topic
+FILM 455 , Cross-Platform Storytelling
+FILM 456 , The Video Essay
+FILM 459 , Film and Media Practicum
+MAPP 395 , Internship
+MUSC 151 , Introduction to Instrumental Composition
+MUSC 152 , Introduction to Vocal Composition
+MUSC 352 , Electroacoustic Composition
+DRAM 235 , Stand-up Comedy
+DRAM 251 , Introduction to Playwriting
+DRAM 303 , Indigenous Playwrights
+DRAM 306 , Drama and its Performance in Canada
+DRAM 311 , Theatre for Young Audiences
+DRAM 350 , Playwriting III
+DRAM 371 , Modern Drama at the Shaw Festival
+FILM 200 , Introduction to Video Game Studies
+FILM 201 , Transnational Media
+FILM 313 , Film and Media Professional Writing and Presentation
+FILM 314 , Media and the Global South
+FILM 316 , Video Games and Culture
+FILM 317 , Art as Technology
+FILM 320 , Media and the Arts
+FILM 324 , Canadian Film and Media: Documentary/Experimental/Animation
+FILM 325 , Cinemas in Canada: Anglo-Canadian/Quebecois(e)/Indigenous
+FILM 330 , Gender and Media
+FILM 332 , Queer Cinemas
+FILM 339 , Media and Culture at the End of the 20th Century
+FILM 343 , Speculative Media Studies: Fictions, Fans, and Franchises
+FILM 345 , Television: Structure and Function
+FILM 346 , Television and Seriality
+FILM 378 , Computational Cinema
+FILM 388 , Indigenous Film and Media
+FILM 389 , The Music Video
+FILM 476 , Social Documentary in Latin America
+FILM 477 , Black Aesthetics and Politics in Media: Studies in Race, Culture, and Art
+MUSC 171 , Social History of Popular Music
+MUSC 240 , Music of Video Games
+MUTH 250 , Structures of Music Theatre
+MUTH 251 , Issues in Music Theatre
+MUTH 271 , Medieval Literature in the Performing Arts
+MUTH 375 , Theatre and Music of Africa and the Diaspora
+MUSC 292 , Theory and Analysis IIA
+MUSC 293 , Theory and Analysis IIB
+MUSC 392 , Theory and Analysis III
+MUSC 280 , Vocal Techniques and Methods
+MUSC 281 , Woodwind Techniques and Methods
+MUSC 282 , Exploring Global Music in the Classroom
+MUSC 283 , Brass Techniques and Methods
+MUSC 285 , String Techniques and Methods
+MUSC 288 , Guitar Techniques and Methods
+MUSC 127 , Ear Training and Sight Singing I
+MUSC 227 , Ear Training and Sight Singing II
+MUSC 129 , Keyboard Skills
+MUSC 229 , Keyboard Lab
+MUSC 120 , Applied Study I (Advanced Performance)
+MUSC 121 , Applied Study I
+MUSC 220 , Applied Study II (Advanced Performance)
+MUSC 221 , Applied Study II
+MUSC 270 , Conducting Techniques
+MUSC 274 , Music Education:Partnership Placement
+MUSC 125 , Applied Study I (Advanced Performance Recital)
+MUTH 160 , Music Theatre Ensemble
+MUTH 260 , Music Theatre Ensemble
+MUTH 360 , Music Theatre Ensemble
+MUTH 460 , Music Theatre Ensemble
+DRAM 300 , Theatre History & Literature II
+GNDS 427 , Towards the Human: Race and the Politics of Expression
+MUSC 114 , Introduction to Teaching Music to Children
+MUSC 289 , Global Musics
+MUTH 231 , Musical Theatre
+MUTH 232 , Opera
+MUSC 420 , Applied Study IV (Advanced Performance)
+MUSC 421 , Applied Study IV
+MUSC 425 , Applied Study IV (Advanced Performance Recital)
+MUSC 326 , Lyric Diction
+MUSC 348 , Advanced Guitar Techniques and Methods
+MUTH 331 , Music Direction for Music Theatre
+MUTH 332 , Opera Performance
+MUSC 253 , Introduction to Jazz Improvisation
+MUSC 358 , Jazz and Popular Music Arranging
+MUSC 394 , Contrapuntal Analysis
+MUSC 396 , Intro To Orchestration
+MUSC 397 , Intro to MIDI Orchestration
+MUSC 398 , Modal Counterpoint
+MUSC 399 , Tonal Counterpoint
+MUSC 180 , Vocal Techniques and Methods
+MUTH 247 , Music Theatre Practicum
+MUTH 340 , Arts Professionalism
+ASCX 200 , Dean's Changemaker Challenge: Collaborative Problem Solving
+ENIN 200 , Foundations of Entrepreneurship
+ENIN 400 , Innovation Design Sprint
+ASCX 300 , Dean's Changemaker Challenge: Implementation Strategies
+CHEE 302 , Technical Entrepreneurship
+ENIN 301 , Creative Entrepreneurship
+COMM 201 , Introduction to Business for Entrepreneurs
+ENIN 204 , Publicity and Media Relations
+ENIN 205 , Innovation for STEAM
+ENIN 207 , Envisioning Disruptive Technologies
+ENIN 240 , Explorations in Creativity
+ENIN 250 , Makerspaces and the Creative and Innovative Process
+ENIN 340 , Topics in Innovation and Entrepreneurship
+FILM 340 , Advertising and Consumer Culture
+IDIS 280 , Interprofessional Approaches in Healthcare
+LAW 204 , Corporate Law
+LLCU 214 , Mafia Culture and the Power of Symbols, Rituals and Myth
+WRIT 250 , Writing in Business Contexts
+ECON 110 , Principles of Economics
+ECON 111 , Introductory Microeconomics
+ECON 112 , Introductory Macroeconomics
+PPEC 200 , Introduction to the Study of Politics, Philosophy and Economics
+ECON 212 , Microeconomic Theory I
+ECON 222 , Macroeconomic Theory I
+ECON 255 , Introduction to Mathematical Economics
+PPEC 300 , Topics in Politics, Philosophy, and Economics
+ECON 310 , Microeconomic Theory II
+ECON 320 , Macroeconomic Theory II
+ECON 351 , Introductory Econometrics
+PPEC 400 , Research Seminar in Politics, Philosophy and Economics
+POLS 110 , Introduction to Politics and Government
+POLS 250 , Political Theory: Foundations
+POLS 350 , Political Theory: History
+PHIL 257 , Ethics
+PHIL 260 , Introduction to Logic
+PHIL 266 , Introduction to Probability and Inductive Logic
+POLS 384 , Strategies of Political Research
+ECON 452 , Applied Econometrics
+ECON 590 , Economics Thesis
+ECON 231 , Emergence of the Modern Industrial Economy
+ECON 232 , The Diffusion of Modern Economic Growth
+ECON 331 , Economic History of North America to 1865
+ECON 332 , Economic History of North America since 1865
+ECON 430 , Issues in Economic History
+COMM 211 , Financial Accounting
+COMM 221 , Introduction To Finance
+COMM 311 , Fin Acctng Pract Prin & Concep
+COMM 313 , Financial Accounting II
+COMM 322 , Advanced Corporate Finance
+COMM 323 , Corporate Financial Planning
+COMM 324 , Investments & Portfolio Management
+COMM 326 , Private Equity
+COMM 329 , Management Of Financial Institutions
+EMPR 230 , Human Resource Management
+EMPR 330 , Strategic HR Management: Building High Performance Workplaces
+EMPR 335 , Leadership and Employee Motivation
+GPHY 228 , Geographies of the Global Political Economy
+PHIL 303 , Markets and Morals
+RELS 368 , Religion and Business Ethics
+ECON 223 , Macroeconomic Policy
+ECON 239 , Economic Development
+ECON 244 , Economics of Indigenous Communities
+ECON 280 , Population and Economic Change
+ECON 480 , Seminar in Microeconomics I
+COMM 171 , Principles of Economics for Business
+COMM 172 , Managerial Economics
+COMM 111 , Introduction To Financial Accounting
+COMM 121 , Introduction To Finance
+COMM 161 , Introduction To Mathematical Analysis
+APSC 171 , Calculus I
+APSC 172 , Calculus II
+EMPR 100 , Introduction to Employment Relations
+EMPR 110 , Workplace Communication and Interpersonal Skills
+ECON 361 , Income Distribution and Problems of Inequality
+GNDS 321 , Gendering Opportunities - Women's Work
+SOCY 305 , Sociology of Professions and Occupations
+SOCY 336 , The Sociology of Work and Technology
+EMPR 200 , Unions and Labour Relations
+EMPR 210 , Employment Law
+EMPR 220 , Conflict Management
+EMPR 240 , Workplace Policies and Governance
+EMPR 250 , Managing Workplace Health, Safety, and Wellness
+EMPR 260 , Advancing Equity, Diversity, and Inclusion in the Workplace
+EMPR 270 , Introduction to Organizational Behaviour
+EMPR 280 , Finance and Accounting for HR Professionals
+ENGL 100 , Introduction to Literary Study
+ENGL 111 , How to Do Things with Words
+ENGL 118 , Literature and Mental Health
+ENGL 200 , History of Literature in English
+ENGL 290 , Seminar in Literature Interpretation
+ENGL 340 , Romantic Literature
+ENGL 360 , Modern Literature
+ENGL 389 , Context North America
+ENGL 499 , Topics in Literary Criticism and Theory IV
+ENGL 590 , Senior Essay Option
+ENGL 292 , Introduction to Literary Criticism and Theory
+BLCK 280 , Special Topics in Black Studies
+CLST 203 , Myth and Religion
+CLST 311 , Greek and Roman Epic
+FRST 290 , Paris: Through Literature, Painting, Cinema and Photography
+GNDS 335 , Science Fiction and Fantasy
+GNDS 370 , Writing Lives: Feminism and Women's Writing
+GNDS 428 , Gender Performance
+GNDS 432 , Settler Colonialism and Indigenous Politics
+INTS 321 , Urban Images: Race, Gender, Sexuality and the Imagined City
+LING 202 , Canadian English
+LING 205 , Language and Power
+LLCU 215 , Dante
+LLCU 226 , Italian Literature and Cinema
+LLCU 232 , From the Romantics to D'Annunzio
+LLCU 233 , Survey of Italian Literature I
+LLCU 234 , Survey of Italian Literature II
+LLCU 316 , Introduction to Contemporary Literary Theory and Analysis
+LLCU 322 , Conflict and Culture: Literature, Law, and Human Rights
+LLCU 340 , European Romanticism
+PHIL 271 , Philosophy and Literature
+GPHY 208 , Surface Processes, Landforms, and Soils
+GPHY 227 , Cities: Geography, Planning and Urban Life
+GPHY 229 , Place, Space, Culture, and Social Life
+GPHY 242 , Remote Sensing I: Remote Sensing of the Environment
+GPHY 243 , Geographic Information Science
+GPHY 342 , Remote Sensing II: Digital Image Processing
+GPHY 415 , Advanced Analysis of Earth Surface Processes
+GPHY 305 , Applied Cold Regions Science
+GPHY 311 , Biogeochemical Processes
+GPHY 313 , Glacier Processes and Dynamics
+GPHY 413 , Water, Energy and Carbon Cycling in the Biosphere
+GPHY 417 , Land-Use Change in the Earth System
+GEOL 232 , Mineralogy
+GEOL 238 , Sedimentology and Stratigraphy
+GEOL 333 , Terrain Evaluation
+GEOL 343 , Hydrogeology
+GEOL 365 , Geochemical Characterization of Earth Processes
+GEOL 475 , Exploration and Environmental Geochemistry
+DEVS 250 , Environmental Transformations
+ECON 290 , Environmental Economics and Assessment
+ENSC 200 , Environmental History
+ENSC 290 , Introduction to Ecological Economics
+ENSC 305 , Social Environments
+ENSC 310 , Environmental Policy
+ENSC 311 , Applied Environmental Policy
+ENSC 315 , Sustainable Food Systems
+ENSC 321 , Environmental Justice in Global Context
+ENSC 391 , Practical Applications in Sustainability
+ENSC 420 , Gender and Environments
+ENSC 482 , Special Topics in Environmental Studies
+ENSC 483 , Special Topics in Environmental Studies II
+GEOL 221 , Geological Field Methods
+GEOL 235 , Igneous and Metamorphic Petrology
+GEOL 249 , Geophysical Characterization of the Earth
+GEOL 300 , Geological Field School
+GEOL 321 , Structural Geology
+CISC 101 , Introduction to Computer Programming
+WRIT 120 , Fundamentals of Effective Writing
+GPHY 203 , Water Resources and Management
+GPHY 204 , Forests as a Global Resource
+GPHY 309 , Field School in Geography
+GPHY 371 , Special Topics in Earth System Science
+GPHY 501 , Special Studies in Geography
+GPHY 502 , Research and Thesis in Geography I
+GPHY 503 , Research and Thesis Geography II
+GPHY 105 , The Digital Earth: Geospatial Data and Earth Observation
+GPHY 240 , Introduction to Qualitative Methods in Geography
+GPHY 343 , Applications of Geospatial Technology for Business
+GPHY 344 , Cartography and Computer Aided Design
+GPHY 345 , Spatial Analysis
+GPHY 346 , GIS and Modelling for Environmental Applications
+GPHY 347 , Multivariate and Spatial Statistics
+GPHY 348 , Application Design and Customization in GIS
+GPHY 349 , GIScience and Public Health
+GPHY 372 , Special Topics Geographic Information Science
+ANAT 215 , Principles of Human Morphology I
+ANAT 216 , Principles of Human Morphology II
+CANC 380 , Evolutionary Biology of Cancer
+HLTH 237 , An Introduction to Drugs, Drug Use and Drug Dependence
+MICR 433 , Microbial Diversity
+MICR 436 , Microbial Genetics
+MICR 450 , Principles of Molecular Virology
+MICR 452 , Viral Infection and Immunity
+PHAR 230 , Pharmacology for the Health Sciences
+REPD 416 , Biology of Reproduction
+ANAT 499 , Research Project in Anatomy and Cell Biology
+CANC 499 , Research Project in Cancer Biology and Genetics
+EPID 499 , Research Project in Epidemiology
+MICR 499 , Research Project in Microbiology and Immunology
+NSCI 499 , Research Project in Neuroscience
+PATH 499 , Research Project in Pathology
+PHAR 499 , Research Project in Pharmacology and Toxicology
+PHGY 499 , Research Project in Physiology
+REPD 499 , Research Project in Reproduction and Development
+BIOL 410 , Ecology of Lakes and Streams
+BIOL 416 , Terrestrial Ecosystems
+BIOL 509 , Limnological Environmental Studies
+BIOL 510 , The Biology of Sustainability
+BIOL 527 , Paleolimnology and Global Environmental Change
+BIOL 322 , Environmental Physiology of Animals
+CHEM 113 , General Chemistry I (with Virtual Laboratory): From Atoms to Matter
+CHEM 114 , General Chemistry II (with Virtual Laboratory): Thermodynamics and Kinetics
+GPHY 320 , Energy and Society
+GPHY 365 , Geography, Development, and Environment in the 'Third World'
+FILM 210 , The Horror Film
+FILM 215 , Science Fiction Cinema
+FILM 220 , Animated Feature Films from Disney to Ghibli
+FILM 225 , The Comedy Film
+FILM 460 , Major Project
+FILM 450 , The Business of Media
+FILM 457 , Film and Media Practicum l
+FILM 458 , Film and Media Practicum ll
+ARTH 203 , Art and Popular Culture
+ARTH 303 , Issues in Contemporary Art and Popular Culture
+ARTH 319 , Art in the Age of the Internet
+CWRI 295 , Introduction to Creative Writing in Short Fiction and Poetry
+CWRI 397 , The Literary Screenplay
+DEVS 306 , Cuban Culture and Society l
+DEVS 307 , Cuban Culture and Society ll Havana
+HIST 220 , Jews on Film
+LLCU 206 , Rebel Cities
+LLCU 207 , Representations of Business in the Movies
+LLCU 209 , Rio de Janeiro: the Marvelous City
+LLCU 249 , Latin Lovers: Love, Sex and Popular Culture
+LLCU 308 , From Fellini to Benigni
+LLCU 309 , The Films of Pedro Almodóvar
+LLCU 325 , Is Less More? Historic and Current Cultural Aspects of Minimalism and Reduction
+LLCU 326 , Film in the New Europe
+LLCU 328 , Gender, Development and Film in Latin America
+RELS 137 , Religion and Film
+SPAN 458 , Film y Politica en Argentina
+FILM 368 , Animation Theory and Criticism
+FILM 300 , Hollywood: The Dream Factory
+FILM 303 , World Cinemas
+FILM 308 , Popular Cultures
+FILM 335 , Culture and Technology
+FILM 338 , Contemporary Issues in Cultural Studies
+GNDS 125 , Gender, Race and Popular Culture
+ARTF 127 , Introductory Fine Art I
+ARTF 128 , Introductory Fine Art II
+ARTF 227 , Intermediate Fine Art I
+ARTF 228 , Intermediate Fine Art II
+ARTF 337 , Advanced Programs I
+ARTF 338 , Advanced Programs II
+ARTF 447 , Individual Programs I
+ARTF 448 , Individual Programs II
+ARTH 226 , Modern Arts in a Globalizing World
+ARTH 228 , Contemporary Art in a Globalizing World
+ARTH 232 , Art in Canada
+FREN 150 , Français intermédiaire
+FREN 219 , Communication et culture IV
+FREN 230 , Analyse textuelle et étude de la langue
+FREN 231 , Rédaction et style
+FREN 241 , Histoire culturelle et littéraire de l'Ancien Régime
+FREN 320 , Communication et culture V
+FREN 331 , Rédaction et style II
+FREN 342 , Histoire culturelle et littéraire de la France moderne et contemporaine
+FREN 343 , Histoire culturelle et littéraire de la francophonie et du Québec
+FREN 360 , Grammaire avancée
+FREN 450 , Travaux pratiques: stylistique et traduction
+FREN 498 , Séminaire de lecture
+FREN 106 , Communication et culture I
+FREN 107 , Communication et culture II
+FREN 118 , Communication et culture III
+FREN 225 , French in the Professional Workplace
+FREN 236 , French for Healthcare Professionals
+FREN 237 , French for Government Professionals
+FREN 238 , French for Legal Professionals
+FREN 239 , French Language for Indigenous Contexts
+FREN 304 , Introduction à la littérature française du Moyen Age
+FREN 315 , Littérature française de la Renaissance
+FREN 323 , La littérature française du 19e siècle
+FREN 324 , Le roman français du 20e siècle
+FREN 325 , Littérature contemporaine
+FREN 327 , Le Cinéma aujourd'hui: Études thématiques
+FREN 350 , Littératures autochtones comparés en Amérique du Nord
+FREN 351 , Ecrits de la Francophonie
+FREN 352 , Vers de nouveaux récits pour Haïti: Une introduction aux études haïtiennes
+FREN 363 , Histoire de la langue française
+FREN 387 , Littérature du 17e siècle
+FREN 388 , Littérature du 18e siècle
+FREN 389 , Special Topics in French Language and Literature
+FREN 390 , Genre et littérature
+FREN 391 , Auteurs et thèmes en littérature québécoise
+FREN 392 , Paris Through Literature, Painting, Cinema, and Photography
+FREN 394 , Montréal interculturel: une métropole en représentation
+FREN 396 , Cinéma et culture québécoise
+FREN 397 , Les humanités médicales
+FREN 499 , Apprentissage et enseignement du français langue seconde
+FRST 105 , Reading French
+GNDS 120 , Women, Gender, Difference
+GNDS 212 , Racism, Colonialism and Resistance
+GNDS 215 , Introduction to Sexual and Gender Diversity
+GNDS 311 , Feminist Thought
+GNDS 345 , Research Methods in Gender Studies
+ARTH 310 , Art and Feminisms
+ARTH 311 , Gender and Modernism
+BLCK 200 , Black Studies and the Politics of Liberation: An Introduction
+DRAM 375 , Women and Theatre I
+ECON 262 , Labour Market and Gender Differences
+ENGL 222 , Selected Women Writers Pre-1900
+ENGL 223 , Selected Women Writers Post-1900
+ENGL 277 , Literature and Gender
+FILM 331 , Women and Film
+GPHY 352 , Gender and the City
+HIST 210 , The History of Sexuality in Canada
+HIST 283 , Women and Gender in North America
+HIST 446 , Gender, Sexuality, and Race in South Asia
+FOUN 447 , Ph-Prob In Hist & Soc Science
+HIST 464 , Sexuality: A Global History
+IDIS 302 , Race and Racism
+LAW 516 , Sexuality & Reproductive Justice
+LLCU 330 , Cervantes I: Earlier Works
+LLCU 331 , Cervantes II: Later Works
+LLCU 333 , Acting Out: Sexual and Gender Subversion in Baroque Theatre
+LLCU 354 , Women's Voices in Latin America
+MECH 333 , Gender, Engineering and Technology
+MUSC 286 , Women, Gender and Music
+MUTH 201 , Sex and Violence in Performance
+PHIL 275 , Thinking Gender, Sex, and Love
+PHIL 276 , Critical Perspective on Social Diversity
+PHIL 376 , Philosophy and Feminism
+PHIL 454 , Topics in Feminist Philosophy
+POLS 280 , Introduction to Women, Gender, and Politics
+POLS 318 , The Canadian Welfare State
+POLS 352 , Women and the History of Political Thought
+POLS 382 , Gender and Social Policy
+POLS 443 , Gender and Globalization
+POLS 456 , Theories of Identity Politics
+POLS 483 , Justice and Gender
+RELS 236 , Religion and Sex
+RELS 312 , Feminist Theology and Christianity
+RELS 332 , Race, Ethnicity, and Religion
+SOCY 303 , Selected Topics in Feminist Sociology
+SOCY 384 , Women and Reproduction Technology
+SOCY 403 , Sociology of the Body
+SOCY 431 , Advanced Studies in Gender Relations
+SPAN 354 , Voces femeninas en America Latina
+SPAN 428 , Gender, Development and Film in Latin America
+BLCK 312 , Black Feminist Thought: An Introduction
+GNDS 312 , Black Feminist Thought: An Introduction
+ARTH 305 , Topics in Modern and Contemporary Art History
+ENGL 471 , Topics in Modern/Contemporary American Literature I
+DEVS 363 , Contemporary Southern Africa: Development Trends and Challenges
+ENGL 271 , Issues and Themes: Special Topics I
+GPHY 254 , The Caribbean in Globalizing World
+HIST 216 , Us Civil War & Reconstruction
+HIST 252 , Africa in the Modern World
+HIST 258 , Slavery in North America from the Colonial Era to 1865
+HIST 275 , The African American Experience
+HIST 288 , The Rise of the British Empire
+PHIL 224 , Africana Philosophy I
+POLS 347 , The Politics of Africa
+BLCK 480 , Special Topics in Black Studies
+BLCK 594 , Independent Study
+ENGL 446 , Topics in Literature of the Americas I
+ENGL 476 , Topics in Postcolonial Literature I
+POLS 466 , Politics of War in Africa
+BLCK 360 , Globalization and Black Health
+BLCK 380 , Special Topics in Black Studies
+GNDS 326 , Gender Diaspora and the Arts
+GNDS 330 , Gender and the Global South
+GNDS 375 , Queer/Race Studies
+GPHY 370 , Special Topics in Human Geography
+HIST 207 , Global Indigenous Histories
+HIST 285 , Latin America to 1850: The Colonial Experience
+HLTH 350 , Topics in Global Health
+PHIL 324 , Africana Philosophy II
+POLS 436 , Race and U.S. Politics
+ARTH 234 , Introduction to African Arts
+DEVS 100 , Canada and the "Third World"
+DEVS 240 , Culture and Development
+DEVS 260 , Globalization, Gender, and Development
+DEVS 355 , AIDS, Power, and Poverty
+DEVS 359 , Migrations, Refugees and Development
+ENGL 466 , Topics in Modern/Contemporary Canadian Literature I
+GNDS 445 , Feminist and Queer Ethnography
+HIST 206 , The United States in the Gilded Age and Progressive Era, 1868-1920
+HLTH 101 , Social Determinants of Health
+INDG 301 , Indigenous Ways of Knowing
+PHIL 318 , Philosophy of Law
+POLS 320 , Indigenous Politics
+POLS 400 , Seminar in Political Science
+RELS 163 , Popular Culture and Religion
+RELS 296 , Islam in Canada
+SOCY 235 , Race and Racialization
+SOCY 406 , Walls to Bridges - Socio-Legal Issues
+PHIL 406 , Walls to Bridges - Socio-Legal Issues
+SOCY 407 , Walls to Bridges - Philosophical Issues
+PHIL 407 , Walls to Bridges - Philosophical Issues
+BIOL 411 , Global Change Biology
+CLST 350 , Greek Perspectives on Ethnicity and Indigeneity
+COMM 356 , Diversity and Inclusion in Organizations
+ENGL 349 , 19th-Century Transatlantic Literature
+ENGL 375 , American Literature
+GNDS 360 , Masculinities: Cross Cultural Perspectives
+GNDS 421 , Gender and Poverty
+GPHY 338 , Urban Political Geography
+GPHY 362 , Human Migration
+HIST 259 , Islamophobia: Crusades to the Present
+HLTH 334 , Health, Illness, and Society
+INDG 302 , Indigenous Theories and Methodologies: Learning through Indigenous Worldviews
+INDG 401 , In Community Capstone: Research and Relationships
+LLCU 110 , Linguistic Diversity and Identity
+LLCU 205 , The Cultures of a Nation
+PHIL 256 , Existentialism
+POLS 358 , Critical Perspectives on Contemporary Capitalism
+POLS 459 , Anarchist Politics, or the Art of Not Being Governed
+RELS 232 , Religion and Social Movements
+SOCY 363 , Science, Technology and Society
+SOCY 422 , Advanced Studies in Communication and Information Technology
+GPHY 401 , Honours Seminar in Human Geography I
+GPHY 402 , Honours Seminar in Human Geography II
+GPHY 403 , Honours Seminar in Human Geography III
+GPHY 215 , Field Studies in Physical Geography
+GPHY 230 , Introduction to Urban and Regional Planning
+GPHY 250 , The Geography of Canada
+GPHY 257 , The Geography of Middle America
+GPHY 258 , The Geography of South America
+GPHY 325 , Maps and Society
+GPHY 327 , The Geographical Imagination
+GPHY 330 , Transportation Geography
+GPHY 332 , Cities and Planning for Sustainable Development
+GPHY 333 , Markets, Environments and Societies
+GPHY 334 , Geographies of Growth and Decline
+GPHY 337 , Regional Development and Planning
+GPHY 351 , Geographies of Indigenous and Settler Relations
+GPHY 368 , Environments and Society
+GPHY 369 , Urban Natures
+GEOL 463 , Spatial Information Management in the Geosciences
+GEOL 464 , Visualization in the Geosciences
+GPHY 594 , Independent Study
+GPHY 595 , Independent Study
+GEOL 301 , Field Studies in Geology I
+GEOL 302 , Problems in Sedimentary Geology
+GEOL 400 , Advanced Geological Sciences Field School
+GEOL 401 , Field Studies in Geology II
+GEOL 402 , Problems in North American Geology
+GEOL 488 , Geology of North America
+GEOL 368 , Carbonate Sedimentology
+GEOL 362 , Petrology Applied to Ore Deposit
+GEOL 452 , Instrumental Techniques Applied to Geochemical Studies
+DEVS 101 , Development Studies in Global Perspective
+DEVS 102 , Canada in the World
+DEVS 230 , The Global Political Economy of Development
+DEVS 300 , Cross-Cultural Research Method
+DEVS 340 , Theories of Development
+DEVS 492 , Topics in Development Studies I
+ARTH 260 , Culture and Conflict
+ARTH 272 , Latin American Art
+ARTH 277 , Artists and Artisans in South Asia
+ARTH 348 , Arts of the Artic
+ARTH 372 , Art of Colonial Latin America
+ARTH 378 , Global Textiles
+ARTH 383 , The City
+ARTH 420 , Art and Activism
+ARTH 434 , Non-Western Art in Western Collections
+ARTH 472 , Art and Global Encounter in Asia, the Americas and Africa, 1492-1850
+COMM 407 , Critical Perspectives on Business: The Limits of Capitalism
+ECON 325 , International Trade Policy
+ECON 390 , Natural Resource Economics
+ECON 425 , international Trade Theory and Policy
+ECON 426 , International Macroeconomics
+ECON 435 , Development Economics
+ENGL 217 , Postcolonial Literatures
+ENGL 218 , Introduction to Indigenous Literatures in Canada
+ENGL 467 , Topics in Modern/Contemporary Canadian Literature II
+ENGL 477 , Topics in Postcolonial Literature II
+ENGL 481 , Topics in Indigenous Literatures I
+ENGL 482 , Topics in Indigenous Literature II
+FREN 285 , Cinéma et société: aspects culturels de la francophonie
+GNDS 211 , Feminist Histories
+GNDS 320 , HIV/AIDS Movements: Histories of Community Health Activism
+GNDS 325 , Indigenous Meanings of Reproduction and Health
+GNDS 340 , Indigenous Women, Feminism and Resistance
+GNDS 365 , Gender Dialogues: Jewish, Muslim and Christian
+GNDS 401 , Debates on Feminism and Islam
+HIST 1SEM , 200 Level Seminar
+HIST 214 , Food in Global History
+HIST 217 , Indigenous Peoples and New France, 1534-1800
+HIST 267 , The (Un) Making of the Modern Middle East
+HIST 270 , Contemporary China
+HIST 273 , New Imperialism
+HIST 286 , Latin America from 1850 to Today: The Modern Era
+HIST 294 , Arab-Israeli Conflict and Regional Security
+HIST 296 , The Making of the Muslim Middle East (550-1350 C.E.)
+HIST 298 , Imperial China
+HIST 299 , China Since 1800
+HIST 318 , Modern East Asia
+HIST 337 , Multiculturalism in the Ottoman Empire
+HIST 344 , Insiders/Outsiders: Jewish Identity in the New World
+HIST 442 , New World Societies
+HIST 461 , Race and Ethnicity in Latin America
+HIST 462 , Social History of Modernizing Latin America 1860 to 1960
+HIST 467 , First Nations of North America
+HIST 498 , China's Revolutions, 1911-1949
+HIST 499 , China Since 1949
+LAW 202 , Aboriginal Law
+LLCU 248 , Spanish American Cultural Contexts
+LLCU 270 , Contemporary Events and Indigenous Cultural Politics
+LLCU 271 , "Other's" Eyes Viewing Indigenous Peoples
+LLCU 302 , Unsettling: Indigenous Peoples and Canadian Settler Colonialism
+LLCU 358 , Film and Politics in Argentina
+LLCU 370 , Indigenous Women and Power
+LLCU 372 , Rotinohnsyonni Indigenography: Iroquois Language, Literatures and Culture
+LLCU 432 , Field Research Practicum at Fudan University
+MUSC 486 , Area Studies in Ethnomusicology
+PHIL 247 , Practical Ethics
+PHIL 307 , Latin America and Caribbean Philosophy
+POLS 241 , Comparative Politics: Transformations
+POLS 242 , Comparative Politics: Contemporary Regimes
+POLS 261 , International Politics
+POLS 262 , International Political Economy
+POLS 341 , Chinese Politics
+POLS 342 , Latin American Politics
+POLS 346 , Development Theory
+POLS 348 , Middle East Politics
+POLS 361 , Regional International Organization
+POLS 364 , International Peace and Security
+POLS 366 , The United Nations
+POLS 395 , Topics in International Political Economy
+POLS 440 , The Politics of Ethnicity and Nationalism
+POLS 442 , Latin American Politics
+POLS 445 , Dialectics of Development
+POLS 457 , Issues in Global Justice
+POLS 461 , International Regimes
+POLS 467 , International Political Economy
+POLS 468 , The International Relations of the Middle East
+POLS 471 , Politics and Science in Technological Societies
+POLS 484 , The Politics of Globalization
+RELS 200 , Religion and Global Development
+RELS 222 , The Hindu World
+RELS 223 , Buddhism
+RELS 224 , Taoism
+RELS 226 , Islam
+RELS 227 , Indigenous Religious Traditions
+RELS 229 , Confucianism
+RELS 322 , Yoga in India and the West
+RELS 326 , Religion and Politics in Muslim Societies
+RELS 393 , Buddhism in the Modern World
+RELS 394 , Religion and Politics in Contemporary China
+RELS 396 , Islam in the Modern World
+SOCY 225 , Sociology of Globalization
+SPAN 306 , La narrativa hispanoamericana del siglo 20
+SPAN 351 , Panorama literario latinoaméricano I
+SPAN 352 , Panorama literario latinoaméricano II
+SPAN 495 , Literatura de España: Estudios independientes II
+SPAN 496 , Literatura de Hispanoamérica: Estudios independientes II
+ANSH 101 , Beginning Anishinaabe Language and Culture I
+ANSH 102 , Beginning Anishinaabe Language and Culture II
+ARAB 100 , Introductory Arabic (Modern Standard)
+ARAB 200 , Intermediate Modern Standard Arabic
+CHIN 100 , Introductory Mandarin Chinese I
+CHIN 200 , Introductory Mandarin Chinese II
+CHIN 300 , Intermediate Mandarin Chinese
+FREN 111 , Révision de la grammaire I
+FREN 112 , Révision de la grammaire II
+GRMN 101 , Beginner's German I
+GRMN 102 , Beginner's German II
+GRMN 201 , Intermediate German I
+GRMN 202 , Intermediate German II
+GRMN 203 , German Conversation and Culture
+GRMN 306 , Business German in Workplace
+GRMN 307 , Business German II: German in the Workplace
+GRMN 308 , Topics in Cultural History I
+GRMN 309 , Topics in Cultural History II
+GRMN 311 , Culture Through Stories in the 18th and 19th Century
+GRMN 312 , Culture Through Stories in the 20th and 21st Century
+GRMN 317 , Contemporary Germany through Media and News
+HEBR 294 , Intermediate Modern Hebrew I
+HEBR 295 , Intermediate Modern Hebrew II
+HEBR 301 , Topics in Hebrew
+HEBR 393 , Reading Modern Hebrew Literature
+HEBR 502 , Directed Reading Hebrew
+INUK 101 , Beginning Inuktitut Language and Culture l
+INUK 102 , Beginning Inuktitut Language and Culture ll
+ITLN 111 , Beginning Italian I
+ITLN 112 , Beginning Italian II
+ITLN 204 , Italiano intermedio
+ITLN 205 , Italiano avanzato
+ITLN 326 , Literature and Cinema
+ITLN 331 , Survey of Italian Literature I
+ITLN 332 , Survey of Italian Literature II
+JAPN 100 , Introductory Japanese I
+JAPN 200 , Introductory Japanese II
+JAPN 301 , Intermediate Japanese I
+JAPN 302 , Intermediate Japanese II
+MOHK 101 , Beginning Mohawk Language and Culture l
+MOHK 102 , Beginning Mohawk Language and Culture ll
+PORT 103 , Beginning Portuguese and Culture l
+PORT 104 , Beginning Portuguese and Culture ll
+SPAN 111 , Beginning Spanish I
+SPAN 112 , Beginning Spanish II
+SPAN 204 , Español intermedio
+SPAN 205 , Español avanzado
+SPAN 206 , Spanish Conversation and Culture
+SPAN 301 , Gramática avanzada y composición I
+SPAN 302 , Gramática avanzada y composición II
+SPAN 303 , Español para contextos profesionales I
+SPAN 304 , Español para contextos profesionales II
+SPAN 344 , La Sociedad Espanola A Traves Del Cine
+SPAN 380 , Introducción: Literatura de España I
+SPAN 381 , Introducción: Literatura de España II
+SPAN 401 , Advanced Grammar Through Translation I
+SPAN 402 , Advanced Grammar Through Translation II
+SPAN 406 , Introducción a la teoría y el análisis literario
+DEVS 280 , Global Engagement
+LLCU 111 , Introduction to Cultures
+DEVS 361 , Policy Advocacy in Global Development
+DEVS 362 , Globally Engaged Experiential Learning
+DEVS 292 , Topics in Development Studies I
+DEVS 293 , Topics in Development Studies II
+DEVS 351 , Labour and Global Development
+DEVS 352 , Technology and Development
+DEVS 353 , Business and Global Development
+CURR 392 , Curriculum Dev in Tech Ed,Pt 2
+FRST 125 , Basic Business French
+HIST 104 , Pre-Confederation Canada: A History of the Present
+HIST 105 , Post-Confederation Canada: A History of the Present
+HIST 124 , Canada: A History of the Present
+HIST 219 , "Canada": The History of an Idea
+HIST 224 , Canadian Francophone Communities
+HIST 242 , Issues in Canadian History
+HIST 254 , Women and Gender in 20th Century Canada
+HIST 260 , An Introduction to Canadian History
+HIST 269 , Politics and the State in Canada to 1896
+HIST 279 , 20th-Century Canada
+HIST 280 , Gender in North American History
+HIST 312 , Canadian Social History
+HIST 313 , British North America, 1759-1867
+HIST 320 , Indigenous History of North America
+HIST 324 , Race and Immigration in North America
+HIST 390 , Topics in History
+HIST 391 , Topics in Canadian History
+HIST 401 , Topics in Canadian History
+FOUN 403 , Hist Of Ed In Canada
+HIST 416 , Material History in Canada
+HIST 425 , Black Experience in Canada
+HIST 431 , Atlantic Canada
+HIST 433 , Power, Authority, and the State in Early Canada
+HIST 436 , Canadian Legal History
+HIST 439 , Schooling Canadians
+HIST 458 , The Social History of Modern Canada
+HIST 476 , Canada at War
+HIST 481 , History vs Pseudohistory
+HIST 485 , The Social History of Canada: 1850-1919
+HIST 486 , The Social History of Canada in the 20th Century
+CLST 129 , Introduction to Archaeology
+CLST 130 , Introduction to Archaeology l: Great Discoveries in Archaeology
+CLST 131 , Introduction to Archaeology ll: Methods and Analysis
+CLST 207 , The Ancient Near East
+CLST 208 , The Levant from the Late Bronze Age to the Coming of Rome
+CLST 321 , World Of Late Antiquity
+CLST 332 , The Iron Age to the End of the Persian Wars
+CLST 333 , The Rise of the Athenian Empire to the End of the Peloponnesian War
+CLST 334 , Fourth Century Greece to the Death of Alexander
+CLST 335 , The Hellenistic Successor Kingdoms to the Death of Cleopatra
+CLST 340 , The Roman Republic
+CLST 341 , The Roman Empire
+CLST 343 , The Later Roman Empire
+LLCU 320 , Fascism in Europe from Napoleon to Hitler
+PHIL 201 , Philosophy and Medicine
+LLCU 101 , Beginning Indigenous Language and Culture I
+LLCU 102 , Beginning Indigenous Language and Culture II
+LLCU 103 , Beginning Language and Culture l
+LLCU 104 , Beginning Language and Culture ll
+ARTH 245 , Art and Architecture in Venice
+ARTH 380 , Venice and its Biennale: Global Circuits of Contemporary Art
+CLST 409 , Archaeology Fieldwork Practicum II
+GREK 430 , Research Course
+HEBR 190 , Introduction to Modern Hebrew
+HEBR 192 , Introductory Biblical Hebrew
+HEBR 193 , Classical Hebrew Fundamentals
+HEBR 292 , Intermediate Biblical Hebrew
+HIST 221 , Jewish and World Civilizations (until 1492)
+HIST 222 , Jewish and World Civilizations (since 1492)
+HIST 295 , The Holocaust
+HIST 306 , Holocaust: Problems and Interpretations
+HIST 339 , Jews Without Judaism
+JWST 301 , Topics in Jewish Studies I
+JWST 302 , Topics in Jewish Studies II
+JWST 501 , Directed Reading in Jewish Studies I
+JWST 502 , Directed Reading in Jewish Studies II
+PHIL 367 , Jewish Philosophy
+PHIL 441 , 20th Century Philosophy II
+RELS 210 , Hebrew Bible
+RELS 234 , Judaism
+RELS 334 , Jewish Views of the Other
+RELS 398 , Jewish Cultural and Political Thought
+HLTH 252 , Introduction to Research Methods
+KNPE 349 , Sports Nutrition
+KNPE 353 , Experiments in Neuromechanical Kinesiology
+KNPE 356 , Exercise Prescription
+KNPE 447 , Advanced Exercise Physiology Laboratory
+KNPE 449 , Advanced Protein Metabolism
+KNPE 453 , Locomotor Neuromechanics
+HLTH 102 , Personal Health and Wellness
+HLTH 205 , Introduction to Health Promotion
+HLTH 305 , Fundamentals of Health Policy
+HLTH 332 , Foundations for Understanding Disability: A Health Perspective
+HLTH 351 , Health in Humanitarian Crises
+HLTH 360 , Globalization and Black Health
+HLTH 401 , Interprofessional Collaborative Education
+HLTH 402 , Disability Studies: Issues, Research, and Policy
+HLTH 403 , Community Based Rehabilitation
+HLTH 404 , Global Studies of Social Inclusion, Community Participation and Mental Health
+HLTH 410 , Environment and Health
+HLTH 416 , Program Planning and Evaluation
+HLTH 417 , Community-Based Programming and Evaluation
+HLTH 430 , Critical Weight Studies
+HLTH 435 , Seminar on HIV/AIDS Prevention
+HLTH 437 , Seminar on Harm Reduction
+HLTH 445 , Critical Population Health
+HLTH 455 , Health and Built Environments
+HLTH 493 , Advanced Topics in Health Studies I
+KNPE 330 , Athletic Therapy Field Placement
+HLTH 235 , Food Systems
+HLTH 315 , Theory and Practice of Health Behaviour Change
+HLTH 333 , Contemporary Issues in Human Sexuality
+HLTH 434 , Social Movements in Health
+HLTH 495 , Advanced Topics in Health Studies II
+KNPE 366 , Race, Sport and Physical Activity
+ANAT 100 , Anatomy of the Human Body
+ANAT 101 , Introductory Human Anatomy
+ECON 243 , The Economics of Health Care
+HIST 228 , Global History of Pandemics
+HLTH 200 , Physical Health and Exercise Programming
+HLTH 270 , Movement Behaviours and Health
+HLTH 300 , Community-Based Practicum
+HLTH 352 , Research Skills Development Practicum
+HLTH 397 , Special Topics in Health Studies
+HLTH 456 , Survey of Research and Literature in Health Studies
+HLTH 491 , Special Project in Health Studies
+HLTH 497 , Special Topics in Health Studies
+HLTH 595 , Honours Thesis in Health Studies
+LLCU 327 , Sickness and Health - Cultural Representations in Medical Discourse
+LLCU 247 , The Dynamic History of Spain
+MOHK 103 , Oral Mohawk Language - Beginning I (TMT)
+MOHK 104 , Beginning Mohawk Language and Culture II Tyendinaga
+MOHK 201 , Intermediate Mohawk Language and Culture
+MOHK 202 , Oral Mohawk Language
+INDG 308 , Learning from the Land
+ARTH 248 , Introduction to Indigenous Arts of North America
+ARTH 438 , Studies in Indigenous Arts and Visual Culture of North America
+BIOL 319 , Introduction to Ethnobotany
+COMM 354 , Relationships & Reconciliation in Business and Beyond
+DEVS 357 , Global Conflict and Local Peacebuilding
+ENGL 287 , Unsettling Kingston/Ka'tarokwi
+ENGL 480 , Studies in Indigenous Literatures
+HIST 455 , The Spanish Inquisition, 1450-1800: Sexuality, Sin, and Spiritual Beliefs
+LING 370 , Living Language: Resilience and Revitalization in Practice
+ENPH 242 , Relativity And Quanta
+RELS 342 , Indigeneity and Nature
+LLCU 203 , Cultural Anthropology
+LLCU 303 , Applied Intercultural Communication
+LLCU 403 , Stories that Matter: Connecting Languages, Literatures and Cultures
+DRAM 301 , Theories of the Theatre I
+GRMN 433 , Conflict and Culture: Literature, Law, and Human Rights
+ITLN 415 , Dante
+ITLN 432 , From the Romantics to D'Annunzio
+LLCU 329 , Uncanny Encounters: Narrative Analysis of the Fantastic Genre
+ARTH 250 , Art, Society, and Culture
+ARTH 345 , Italian Art of the High Renaissance
+ENGL 293 , Introductory Approaches to Cultural Studies
+ENGL 294 , Cultural Studies: Theory into Practice
+GRMN 315 , Work and Study in Germany
+GRMN 419 , Roots of Fascism: Resistance to Liberalism in the 19th Century
+GRMN 420 , Fascism in Europe from Napoleon to Hitler
+GRMN 426 , Film in the New Europe
+GRMN 427 , Sickness and Health - Cultural Representations in Medical Discourse
+GRMN 531 , Directed Special Studies I
+GRMN 532 , Directed Special Studies II
+INDG 295 , Special Indigenous Topics
+INDG 395 , Special Indigenous Topics
+INDG 495 , Special Indigenous Topics
+INTS 323 , International Perspectives in the Creative Arts I
+ITLN 310 , Italy and the Classical Tradition
+ITLN 408 , From Fellini to Benighni
+LING 210 , Language Acquisition and Learning
+LLCU 213 , The Social History of Organized Crime in Canada
+LLCU 216 , Introduction to Arabic Cultures
+LLCU 260 , Multilingualisms
+LLCU 295 , Special Topics
+LLCU 310 , Introduction to Jewish Latin America
+LLCU 311 , Hispanic, Latino, Latinx? Introduction to Hispanic Culture(s) in the U.S. and Canada
+LLCU 319 , Roots of Fascism: Resistance to Liberalism in the 19th Century
+LLCU 360 , Ethnographic Approaches to Language
+LLCU 373 , Indigenous Stories and Environmental Ethics
+LLCU 395 , Special Topics
+LLCU 495 , Special Topics I
+LLCU 501 , Directed Readings in Languages, Literatures and Cultures
+RELS 131 , World Religions/Religious Worlds
+RELS 161 , Contemporary Problems in Religion and Culture
+SOCY 273 , Social Psychology
+SOCY 300 , Sociology of Cities
+SOCY 310 , Visual Culture
+SOCY 362 , Cultural Studies
+SPAN 310 , Artistic Representations of the Spanish Civil War
+SPAN 408 , The Films of Pedro Almodóvar
+LING 501 , Directed Readings in Linguistics
+LING 505 , Honours Thesis in Linguistics
+ENGL 206 , History of the English Language
+PHIL 362 , Further Studies in Logic
+PHIL 459 , Current Issues in the Philosophy of Language
+PSYC 485 , Special Topics in Psychology II
+ARTH 306 , Modern Architecture in Germany: A Social History
+HIST 121 , The Intellectual Origins of the Contemporary West
+IDIS 303 , Mathematics and Poetry
+ARTH 312 , Quattrocento Painting
+ARTH 347 , Mannerism
+ARTH 369 , Architecture of the Renaissance Period
+ARTH 370 , Architecture of the Baroque Period
+FILM 305 , European Narrative
+FILM 337 , Cinema and the City
+FILM 425 , Advanced Film Criticism
+FILM 435 , Culture and Representation: Special Topic I
+LANG 101 , Language Acquisition - Beginning Level I
+LANG 102 , Language Acquisition - Beginning Level II
+LANG 201 , Language Acquisition - Advanced Level I
+LANG 202 , Language Acquisition - Advanced Level II
+LIBS 100 , Origins and Practices of Liberal Arts
+LIBS 300 , The Liberal Arts in the Contemporary World
+ASTR 101 , Astronomy I: Solar System
+ASTR 102 , Astronomy II: Stars, Galaxies, and the Universe
+BIOL 350 , Evolution and Human Affairs
+PSYC 397 , History of Modern Psychology
+DRAM 211 , Introduction to Theatre for Young Audiences
+SOCY 122 , Introduction to Sociology
+ARTH 350 , Propaganda and Visual Culture: From the Altar to the Xbox
+ARTH 354 , Age of Rembrandt
+CLST 205 , Ancient Humour
+ENGL 215 , Canadian Literature
+ENGL 237 , Children's Literature
+ENGL 281 , Legends of King Arthur: Medieval to Modern
+HIST 125 , The Evolution of Modern Europe
+HIST 211 , The Cold War
+MUSC 102 , Western Music: Napoleon to 9/11
+WRIT 225 , Writing for Research, Analysis, and Reflection
+WRIT 265 , Editing in Academic and Professional Contexts
+WRIT 290 , Writing Creative Non-fiction
+CANC 440 , Cancer Biology and Therapeutics
+CRSS 453 , Principles in Cardiorespiratory Science I
+CRSS 454 , Cardiovascular Sciences
+CRSS 456 , Molecular and Cellular Basis of Cardiovascular Disease
+HSCI 383 , Advanced Research Methodologies
+HSCI 483 , Applied Qualitative Methods for Health Research
+BIOL 433 , History and Philosophy of Biology
+ANAT 391 , Introduction to Cadaveric Dissection
+ANAT 409 , Selected Topics in Histology
+EPID 401 , Biostatistical Data Analysis
+MICR 290 , Antibiotic Resistance Lab
+NSCI 433 , Cellular Elements of the Nervous System: Responses to Injury and Disease
+PHGY 290 , Investigation of Human Physiological Responses
+PATH 310 , Introduction to Pathology and Molecular Medicine
+PATH 425 , Current Topics in Human Genetics
+PHAR 380 , Drug and Environmental Toxicology
+PHGY 350 , Pathophysiology
+PATH 430 , The Molecular Basis of Disease
+NSCI 422 , Cellular and Molecular Neuroscience
+LISC 300 , The Process of Discovery in the Biomedical Sciences
+LISC 426 , Current Concepts in Sensorimotor Neuroscience
+NSCI 403 , Introduction to Neuroimaging
+NSCI 429 , Disorders of the Nervous System
+NSCI 444 , Controversies in Neuroscience
+NSCI 483 , Neurobiology of Learning and Memory
+PHGY 424 , Ion Channels of Excitable Cells
+PHGY 494 , Neuroendocrinology
+PSYC 398 , Selected Topics in Psychology I
+PSYC 399 , Selected Topics in Psychology II
+NURS 100 , Nutrition and Health
+MATH 281 , Introduction to Real Analysis
+MATH 326 , Functions of a Complex Variable
+MATH 328 , Real Analysis
+MATH 335 , Mathematics of Engineering Systems
+PHYS 212 , Vibrations and Waves
+PHYS 213 , Computational Methods in Physics
+PHYS 239 , Electromagnetism
+PHYS 250 , Foundations of Experimental Physics
+PHYS 321 , Advanced Mechanics
+PHYS 344 , Introduction to Quantum Mechanics
+PHYS 345 , Quantum Physics of Atoms, Nuclei and Particles
+PHYS 350 , General Laboratory
+PHYS 372 , Thermodynamics
+PHYS 432 , Electromagnetic Theory
+PHYS 590 , Research Thesis
+MATH 341 , Differential Geometry
+MATH 421 , Fourier Analysis
+MATH 427 , Introduction to Deterministic Dynamical Systems
+MATH 429 , Functional Analysis and Quantum Mechanics
+MATH 436 , Partial Differential Equations
+MATH 384 , Mathematical Theory of Interest
+MATH 385 , Life Contingencies
+STAT 455 , Stochastic Processes and Applications
+STAT 465 , Quality Management
+MATH 381 , Mathematics with a Historical Perspective
+MATH 382 , Mathematical Explorations
+MATH 386 , Our Number System - an Advanced Perspective
+MATH 387 , Elementary Geometry - an Advanced Perspective
+MATH 212 , Linear Algebra ll
+PHIL 329 , Early Modern Philosophy
+PHIL 330 , Investigations in the History of Philosophy
+PHIL 335 , Introduction to Kant
+PHIL 373 , Continental Philosophy, 1900-1960
+PHIL 374 , Continental Philosophy, 1960-Present
+PHYS 315 , Physical Processes in Astrophysics
+PHYS 316 , Methods in Mathematical Physics I
+PHYS 317 , Methods in Mathematical Physics II
+PHYS 414 , Introduction to General Relativity
+PHYS 435 , Stellar Structure and Evolution
+PHYS 453 , Advanced Physics Laboratory
+PHYS 490 , Nuclear and Particle Physics
+PHYS 444 , Advanced Quantum Physics
+PHYS 472 , Statistical Mechanics
+PHYS 480 , Solid State Physics
+MATH 338 , Fourier Methods for Boundary Value Problems
+PHYS P10 , Fundamental Concepts in Physics for Teachers
+PHYS P20 , Physicists in the Nuclear Age
+PHYS P22 , Physics Frontiers: From Colliding Black Holes to Disruptive Technologies
+LAW 201 , Introduction to Canadian Law
+QGSP 200 , Global Goals: An Introduction to the Sustainable Development
+COMM 355 , Facilitating Effective Teams
+COMM 359 , Work & Social Inequities
+RELS 140 , Religion and Science
+RELS 162 , Religion, News and Media
+RELS 255 , Research and Writing in Religious Studies
+RELS 354 , Theory in Religious Studies
+RELS 401 , Honours Seminar
+RELS 202 , Traditions in Religious Studies
+RELS 214 , Origins of Christianity
+RELS 218 , Christianity
+RELS 221 , New Religious Movements
+RELS 302 , Traditions in Religious Studies
+RELS 328 , Apocalypse
+RELS 341 , Spirituality, Secularity, and Nonreligion
+ARTH 401 , Studies in Iconography
+PHIL 263 , Philosophy of Religion
+SOCY 226 , Central Concepts in Sociological Theory
+SOCY 227 , Theorizing Contemporary Society
+POLS 485 , Seminar in Women and Politics
